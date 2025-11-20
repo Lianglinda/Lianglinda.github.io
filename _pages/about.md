@@ -43,8 +43,12 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2019.11-2021.11*  Japanese Society for the Promotion of Science (日本学術振興会) Fellowship
+- *2019.06*  Globalink Mitacs Research Award
+- *2019.04*  Marie Sklodowska-Curie Actions Seal of Excellence
+- *2018.09*  Excellent Doctoral Dissertation of Beihang University
+- *2016&2017.10*   China National Scholarship
+- *2016.05*  Academic Excellence Foundation of BUAA for PhD Students
 - *2016.04*  Best paper award in 17th China Annual Conference on Astrodynamics and Control Technology
  
 # 📖 Educations
