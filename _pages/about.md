@@ -139,6 +139,7 @@ My research interest includes neural machine translation and computer vision. I 
 - **Yuying Liang**, Jinjun Shan, Ming Xu, Mingpei Lin. The bifurcation of periodic orbits and equilibrium points in the linked restricted three-body problem with parameter ω. Chaos: An Interdisciplinary Journal of Nonlinear Science, 2019, 29(10): 103110.
 
 <details>
+  <summary style="text-align:center; display:block; cursor:pointer;">
   <summary>Click for more publications‼️</summary>
   
   <ul>
@@ -168,12 +169,14 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🌏 Conference Papers
 
-  <li>Chenyu Zhang, Yifei Xie, <strong>Yuying Liang</strong>. Constructing Shuttle-Mode Architecture in Cislunar Space for Reusable Flight Vehicles. In: 75th IAC, 2025, Sydney.</li>
-  <li>Shengyu Gao, Yifei Xie, Lei Peng, <strong>Yuying Liang</strong>. Reconstruction of Lunar Gravity Anomalies and Heterogeneous Density Distribution based on Optical Guidance Information. In: 75th IAC, 2025, Sydney.</li>
-  <li>Lei Peng, Yifei Xie, <strong>Yuying Liang</strong>. A Constellation-Volume-Preserved Approach for Formation Flying Design near Triangular Libration Points. In: 75th IAC, 2025, Sydney.</li>
-  <li>Ferry Matthieu, <strong>Yuying Liang</strong>. Areostationary Mars Orbit: Dynamics, Control, and Applications. In: International Federation of Automatic Control (IFAC), 2025, Harbin.</li>
+- Chenyu Zhang, Yifei Xie, <strong>Yuying Liang</strong>. Constructing Shuttle-Mode Architecture in Cislunar Space for Reusable Flight Vehicles. In: 75th IAC, 2025, Sydney.
+- Shengyu Gao, Yifei Xie, Lei Peng, <strong>Yuying Liang</strong>. Reconstruction of Lunar Gravity Anomalies and Heterogeneous Density Distribution based on Optical Guidance Information. In: 75th IAC, 2025, Sydney.
+- Lei Peng, Yifei Xie, <strong>Yuying Liang</strong>. A Constellation-Volume-Preserved Approach for Formation Flying Design near Triangular Libration Points. In: 75th IAC, 2025, Sydney.
+- Ferry Matthieu, <strong>Yuying Liang</strong>. Areostationary Mars Orbit: Dynamics, Control, and Applications. In: International Federation of Automatic Control (IFAC), 2025, Harbin.
+
   
 <details>
+  <summary style="text-align:center; display:block; cursor:pointer;">
   <summary>Click for more information ‼️</summary>
 
   <ul>
