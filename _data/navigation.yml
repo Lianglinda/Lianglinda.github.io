@@ -15,8 +15,23 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
+  - title: "Experience"
+    url: "/#-experience"
+
   - title: "Invited Talks"
     url: "/#-invited-talks"
 
+  - title: "Teaching"
+    url: "/#-teaching"
+
+  - title: "Conference Papers"
+    url: "/#-conference-papers"
+    
+  - title: "Fellowship"
+    url: "/#-fellowship"
+    
+  - title: "To my students"
+    url: "/#-to-my-students"
+    
   - title: "Internships"
     url: "/#-internships"
