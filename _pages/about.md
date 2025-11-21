@@ -37,7 +37,30 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# 🏆 Selected Publications
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">代表作</div>
+      <img src='/images/your_paper_image.jpg' alt="paper image" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**Paper Title Here**  
+_Author 1, Author 2, **Yuying Liang**, Author 4_  
+Journal / Conference, Year  
+
+[**PDF**](#) · [**Project**](#)
+
+- 在这里写一句对论文的简短介绍，例如：  
+  “提出了一种用于小天体轨道动力学分析的新方法，适用于深空探测任务设计。”
+
+  </div>
+</div>
+
+# 📝 Publication List
 
 <div class='paper-box'><div class='paper-box-image'>
 <div><div class="badge">Journal</div>
