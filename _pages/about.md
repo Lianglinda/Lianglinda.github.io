@@ -140,6 +140,19 @@ My research interest includes neural machine translation and computer vision. I 
 - **Yuying Liang**, Shan Jinjun, Ming Xu, Shijie Xu. Capturing an Asteroid via Triangular Libration Points. Journal of Guidance, Control, and Dynamics, 2020, 43(6): 1099-1113.
 - **Yuying Liang**, Gerard Gómez, Josep Masdemont, Ming Xu. Stable Regions of Motion Around a Binary Asteroid System. Journal of Guidance, Control, and Dynamics, 2019, 42(11): 2521-2531.
 - **Yuying Liang**, Jinjun Shan, Ming Xu, Mingpei Lin. The bifurcation of periodic orbits and equilibrium points in the linked restricted three-body problem with parameter ω. Chaos: An Interdisciplinary Journal of Nonlinear Science, 2019, 29(10): 103110.
+- **Yuying Liang**, Ming Xu, Shijie Xu. Low-energy Weak Stability Boundary Transfers to Pluto’s Moons: Preliminary Trajectory Design via Triangular Libration Point. Acta Astronautica, 2019, 156: 219-233.
+- **Yuying Liang**, Ming Xu, Kun Peng, Shijie Xu. A Cislunar In-orbit Infrastructure based on p:q Resonant Cycler Orbits. Acta Astronautica, 2020, 170: 539-551.
+- **Yuying Liang**, Ming Xu, Shijie Xu. High-order Solutions of Motion near Triangular Libration Points for Arbitrary Value of μ. Nonlinear Dynamics, 2018, 93(2): 909-932.
+- **Yuying Liang**, Ming Xu, Shijie Xu. Bounded Motions near Contact Binary Asteroids by Hamiltonian Structure-preserving Control. Journal of Guidance Control and Dynamics, 2018, 41(2): 401-416.
+- **Yuying Liang**, Ming Xu, Shijie Xu. Homoclinic/Heteroclinic Connections of Equilibria and Periodic Orbits of Contact Binary Asteroids. Journal of Guidance Control and Dynamics, 2017, 40(8): 2042-2061.
+- **Yuying Liang**, Ming Xu, Shijie Xu. The Cislunar Polygonal-Like Periodic Orbit: Construction, Transition and Its Application. Acta Astronautica, 2017, 133: 282-301.
+- **Yuying Liang**, Ming Xu, Shijie Xu. The Classification of Cislunar Trajectories and its Applications in the Earth–Moon System. Astrophysics and Space Science, 2016, 361(1): 1-19.
+- Ming Xu, **Yuying Liang**, et al. Survey on Advances in Orbital Dynamics and Control for Libration Point Orbits. Progress in Aerospace Sciences, 2016, 82: 24-35.
+- Ming Xu, **Yuying Liang**, et al. Cluster Flight Control for Fractionated Spacecraft on an Elliptic Orbit. Celestial Mechanics and Dynamical Astronomy, 2016, 125(4): 383-412.
+- Ming Xu, **Yuying Liang**, et al. Formation Flying on Quasi-halo Orbits in Restricted Sun–Earth/Moon System. Aerospace Science and Technology, 2017, 67: 118-125.
+- Ming Xu, **Yuying Liang**, et al. Attitude Pointing Schemes and Spacecraft Configurations for Libration-point-orbit Spacecraft. Aerospace Science and Technology, 2017, 65: 1-8.
+- Ming Xu, **Yuying Liang**, Shijie Xu. Formation Flying on Elliptic Orbits by Hamiltonian Structure-preserving Control. Journal of Guidance Control and Dynamics, 2018, 41(1): 291-299.
+- Xingji He, **Yuying Liang**, Ming Xu, et al. Low-thrust transfer to the Earth-Moon triangular libration point via horseshoe orbit. Acta Astronautica, 2020, 177: 111-121.
 
 # 🌏 Conference Papers
 
