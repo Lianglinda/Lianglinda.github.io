@@ -229,8 +229,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2018.11 - 2019.11*, York University, Lassonde School of Engineering, Postdoctoral Fellow (Prof. Jinjun Shan)
 
 # 🎤 Invited Talks
-- *2025.09*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2025.09*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.09*, **Evolution of Earth–Moon Transfer Design: From Apollo to Beyond Gateway**, CSA-IAA Conference on Advanced Space Technology, Shanghai. 
+- *2025.09*, **Key Technologies for Reconstructing Planetary Interiors and Gravity Fields in Deep Space Missions**，Innovation Forum on Critical Technologies for Major Equipment Integration, Harbin. \| [\[video\]](https://github.com/)
 
 # 📝 Teaching
 - *2025.04 - present*, Advanced Mathematics in Aerospace Science and Technolog (力学中的高阶数学方法), Beihang University.
