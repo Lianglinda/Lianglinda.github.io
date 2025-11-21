@@ -31,7 +31,7 @@ My research interest includes neural machine translation and computer vision. I 
 4. 学术报告防打瞌睡指南 
 5. 让我们荡起双桨——完成第一篇共同署名论文
    
-   <center> **希望每一位加入课题组的同学，都能在科研的道路上找到属于自己的热爱与方向** 🔆🔆🔆
+   <center><b>希望每一位加入课题组的同学，都能在科研的道路上找到属于自己的热爱与方向 🔆🔆🔆
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
