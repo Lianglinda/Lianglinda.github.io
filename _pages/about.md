@@ -168,6 +168,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🌏 Conference Papers
 
+  <li>Chenyu Zhang, Yifei Xie, <strong>Yuying Liang</strong>. Constructing Shuttle-Mode Architecture in Cislunar Space for Reusable Flight Vehicles. In: 75th IAC, 2025, Sydney.</li>
+  <li>Shengyu Gao, Yifei Xie, Lei Peng, <strong>Yuying Liang</strong>. Reconstruction of Lunar Gravity Anomalies and Heterogeneous Density Distribution based on Optical Guidance Information. In: 75th IAC, 2025, Sydney.</li>
+  <li>Lei Peng, Yifei Xie, <strong>Yuying Liang</strong>. A Constellation-Volume-Preserved Approach for Formation Flying Design near Triangular Libration Points. In: 75th IAC, 2025, Sydney.</li>
+  <li>Ferry Matthieu, <strong>Yuying Liang</strong>. Areostationary Mars Orbit: Dynamics, Control, and Applications. In: International Federation of Automatic Control (IFAC), 2025, Harbin.</li>
+  
 <details>
   <summary>Click for more information ‼️</summary>
 
@@ -188,10 +193,6 @@ My research interest includes neural machine translation and computer vision. I 
   <li>Zhonghuai Yan, <strong>Yuying Liang</strong>. Automatic Landing-Information-based Reconstruction of Internal Structure for Small Bodies: MMX Case. In: 74th IAC, 2024, Milano.</li>
   <li><strong>Yuying Liang</strong>, Lei Peng. Which Are Better: Retrograde or Prograde Orbits from the Perspective of Planetary Mission Design. In: 74th IAC, 2024, Milano.</li>
   <li>Lei Peng, <strong>Yuying Liang</strong>, Qingfang, Xiao. Separatrix of Bounded Orbits and Escaping Manifolds in Hyperbolic Restricted Three-Body Problem. In: 74th IAC, 2024, Milano.</li>
-  <li>Chenyu Zhang, Yifei Xie, <strong>Yuying Liang</strong>. Constructing Shuttle-Mode Architecture in Cislunar Space for Reusable Flight Vehicles. In: 75th IAC, 2025, Sydney.</li>
-  <li>Shengyu Gao, Yifei Xie, Lei Peng, <strong>Yuying Liang</strong>. Reconstruction of Lunar Gravity Anomalies and Heterogeneous Density Distribution based on Optical Guidance Information. In: 75th IAC, 2025, Sydney.</li>
-  <li>Lei Peng, Yifei Xie, <strong>Yuying Liang</strong>. A Constellation-Volume-Preserved Approach for Formation Flying Design near Triangular Libration Points. In: 75th IAC, 2025, Sydney.</li>
-  <li>Ferry Matthieu, <strong>Yuying Liang</strong>. Areostationary Mars Orbit: Dynamics, Control, and Applications. In: International Federation of Automatic Control (IFAC), 2025, Harbin.</li>
     
   </ul>
 
