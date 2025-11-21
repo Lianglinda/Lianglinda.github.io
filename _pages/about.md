@@ -29,7 +29,7 @@ My research interest includes neural machine translation and computer vision. I 
 2. 读博究竟在读什么？（Part 2） 
 3. 组会上优雅的躺平姿势 
 4. 学术报告防打瞌睡指南 
-5. 让我们荡起双桨——完成第一篇共同署名论文 
+5. 让我们荡起双桨——完成第一篇共同署名论文  
 **希望每一位加入课题组的同学，都能在科研的道路上找到属于自己的热爱与方向** 🔆🔆🔆
 
 # 🔥 News
