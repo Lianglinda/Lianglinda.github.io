@@ -39,6 +39,25 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🏆 Selected Publications
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">代表作</div>
+      <img src='/images/paper1.jpg' alt="Paper 1" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**Formation flying on quasi-halo orbits in restricted Sun–Earth/Moon system**  
+_M Xu, **Y Liang**, X Fu_  
+Aerospace Science and Technology, 2017  
+
+[**PDF**](#) · [**Project**](#)
+
+- 提出一种在日地/月系受限动力学下的准 Halo 轨道编队飞行方法。
+
+  </div>
+</div>
 
 # 📝 Publication List
 
