@@ -21,17 +21,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-基于路漫漫兮修远兮，吾将上下而求索。欢迎数理兼修、文体并茂的学生加入课题组。立志打造亦师亦友的新型学术伙伴关系，共同攀登知识的山峰，享受科研的乐趣！ 
-知我者谓我心忧，不知我者谓我何求； 鹤鸣于野，鱼潜在渊；既闻其声，不见其踪； 柏舟之上，淇奥之畔；静言有思，耿耿难寐； 春淹秋序，次第固生；日居月诸，胡迭其微； 冬雷夏雪，轻言不诺；今夕何夕，动如参商； 如临深渊，如履薄冰；靡不有初，鲜克有终； 心之忧矣，且歌且谣；彼何人哉，其谁知之； 蒲荷葭葛，皎皎挠挠；匪石匪席，不可断绝； 如切如磋，如琢如磨；他山之石，可以攻玉。 高山仰止，景行行止；身不能至，心向往之。
-除了科研工作之外，闲暇之余，结合自身读博和海外博后经历，分享自己的一些困惑和收获，希望能有一点 contribution ～（不定期更新） 
-知乎专栏分享 
-除了“比较”，还有热爱 读博究竟在读什么？—— 如何系统性地完成科研训练（Part 1） 
-读博究竟在读什么？（Part 2） 
-组会上优雅的躺平姿势 
-学术报告防打瞌睡指南 
-让我们荡起双桨——完成第一篇共同署名论文 
-希望每一位加入课题组的同学，都能在科研的道路上找到属于自己的热爱与方向
-
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -116,6 +105,17 @@ My research interest includes neural machine translation and computer vision. I 
 - Ordinary member in Japanese Society for Planetary Science
 - Ordinary member in Japan Society for Aeronautical and Space Sciences
 - Japanese Society for the Promotion of Science (日本学術振興会) Post-doctoral Fellowship
-  
+
+# 🌸 To my students
+基于路漫漫兮修远兮，吾将上下而求索。欢迎数理兼修、文体并茂的学生加入课题组。立志打造亦师亦友的新型学术伙伴关系，共同攀登知识的山峰，享受科研的乐趣！ 
+知我者谓我心忧，不知我者谓我何求； 鹤鸣于野，鱼潜在渊；既闻其声，不见其踪； 柏舟之上，淇奥之畔；静言有思，耿耿难寐； 春淹秋序，次第固生；日居月诸，胡迭其微； 冬雷夏雪，轻言不诺；今夕何夕，动如参商； 如临深渊，如履薄冰；靡不有初，鲜克有终； 心之忧矣，且歌且谣；彼何人哉，其谁知之； 蒲荷葭葛，皎皎挠挠；匪石匪席，不可断绝； 如切如磋，如琢如磨；他山之石，可以攻玉。 高山仰止，景行行止；身不能至，心向往之。
+除了科研工作之外，闲暇之余，结合自身读博和海外博后经历，分享自己的一些困惑和收获，希望能有一点 contribution ～（知乎专栏分享 不定期更新） 
+1. 除了“比较”，还有热爱 读博究竟在读什么？—— 如何系统性地完成科研训练（Part 1） 
+2. 读博究竟在读什么？（Part 2） 
+3. 组会上优雅的躺平姿势 
+4. 学术报告防打瞌睡指南 
+5. 让我们荡起双桨——完成第一篇共同署名论文 
+6. 希望每一位加入课题组的同学，都能在科研的道路上找到属于自己的热爱与方向
+
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
