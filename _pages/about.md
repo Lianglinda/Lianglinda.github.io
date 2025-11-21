@@ -59,7 +59,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2011.09 - 2012.01*, York University, Lassonde School of Engineering, Exchange Student.
 - *2009.09 - 2013.06*, Beihang University, School of Astronautics, Bachelor in Aerospace Engineering.
 
-# 📖 Experience
+# 🔭 Experience
 - *2023.11 - present*, Beihang University, School of Astronautics, Full Professor.
 - *2022.03 - 2023.11*, Beihang University, School of Astronautics, Associate Professor.
 - *2019.11 - 2021.11*, JAXA, ISAS (Institue of Space and Astronautical Sciences), JSPS Fellow (Prof. Kawakatsu & Prof. Fujimoto).
@@ -70,6 +70,11 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.09*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2025.09*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
+# 📝 Teaching
+- *2025.04 - present*, Advanced Mathematics in Aerospace Science and Technolog (力学中的高阶数学方法), Beihang University.
+- *2025.09 - present*, Orbital Mechanics (English), Beihang University.
+- *2023.09 - present*, Flight Vehicle Dynamics of Deep Space Exploration (bilingual), Beihang University.
+  
 # 🌏 Conference Papers
 - Ming Xu, **Yuying Liang**, Shijie Xu. A Cislunar In-orbit Infrastructure Using Cycler Trajectories in the Earth and Moon System. In: 64th IAC, 2013, Beijing.
 - **Yuying Liang**, Ming Xu, Shijie Xu. Polygonal-like Periodic Orbit and its Application to a Cislunar In-orbit Infrustracture. In: 66th IAC, 2015, Jerusalem.
