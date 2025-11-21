@@ -106,7 +106,7 @@ My research interest includes neural machine translation and computer vision. I 
 - Ordinary member in Japan Society for Aeronautical and Space Sciences
 - Japanese Society for the Promotion of Science (日本学術振興会) Post-doctoral Fellowship
 
-# 🌸 To my students
+# 🌸 To my students 🌸
 基于路漫漫兮修远兮，吾将上下而求索。欢迎数理兼修、文体并茂的学生加入课题组。立志打造亦师亦友的新型学术伙伴关系，共同攀登知识的山峰，享受科研的乐趣！ 
 知我者谓我心忧，不知我者谓我何求； 鹤鸣于野，鱼潜在渊；既闻其声，不见其踪； 柏舟之上，淇奥之畔；静言有思，耿耿难寐； 春淹秋序，次第固生；日居月诸，胡迭其微； 冬雷夏雪，轻言不诺；今夕何夕，动如参商； 如临深渊，如履薄冰；靡不有初，鲜克有终； 心之忧矣，且歌且谣；彼何人哉，其谁知之； 蒲荷葭葛，皎皎挠挠；匪石匪席，不可断绝； 如切如磋，如琢如磨；他山之石，可以攻玉。 高山仰止，景行行止；身不能至，心向往之。
 除了科研工作之外，闲暇之余，结合自身读博和海外博后经历，分享自己的一些困惑和收获，希望能有一点 contribution ～（知乎专栏分享 不定期更新） 
