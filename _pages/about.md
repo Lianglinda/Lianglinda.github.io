@@ -108,7 +108,7 @@ My research interest includes neural machine translation and computer vision. I 
 - Lei Peng, Yifei Xie, **Yuying Liang**. A Constellation-Volume-Preserved Approach for Formation Flying Design near Triangular Libration Points. In: 75th IAC, 2025, Sydney.
 - Ferry Matthieu, **Yuying Liang**. Areostationary Mars Orbit: Dynamics, Control, and Applications. In: International Federation of Automatic Control (IFAC), 2025, Harbin.
 
-<\details>
+</details>
 
 # 🎖 Honors and Awards
 - *2019.11-2021.11*  Japanese Society for the Promotion of Science (日本学術振興会) Fellowship
