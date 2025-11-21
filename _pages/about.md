@@ -52,7 +52,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2016.04*  Best paper award in 17th China Annual Conference on Astrodynamics and Control Technology
  
 # 🎓 Educations
-- *2013.09 - 2018.06*, Beihang University, School of Astronautics & School of Advanced Engineering (Liberal Arts College),<br>
+- *2013.09 - 2018.06*, Beihang University, School of Astronautics & School of Advanced Engineering (Liberal Arts College),  
                        PhD (Hons) in Aerospace Engineering.
 - *2017.03 - 2017.05 & 2017.10 - 2017.12*, Universitat de Barcelona, Department of Mathematics and Computer Science,  
                        Adjoint Ph.D candidate. 
@@ -91,6 +91,16 @@ My research interest includes neural machine translation and computer vision. I 
 - Shengyu Gao, Yifei Xie, Lei Peng, **Yuying Liang**. Reconstruction of Lunar Gravity Anomalies and Heterogeneous Density Distribution based on Optical Guidance Information. In: 75th IAC, 2025, Sydney.
 - Lei Peng, Yifei Xie, **Yuying Liang**. A Constellation-Volume-Preserved Approach for Formation Flying Design near Triangular Libration Points. In: 75th IAC, 2025, Sydney.
 - Ferry Matthieu, **Yuying Liang**. Areostationary Mars Orbit: Dynamics, Control, and Applications. In: International Federation of Automatic Control (IFAC), 2025, Harbin. 
+
+# 👥 Fellowship
+- Committee Member (Observer) for Astrodynamics Committee of IAF (International Astronautical Federation)
+- Editorial Board Member of Nonlinear Dynamics
+- Editorial Board Member of Journal of Astronautics (English Version)
+- Ordinary member in Chinese Society of Astronautics (中国宇航学会)
+- Organisation Member of 2025 International Federation of Automatic Control
+- Ordinary member in Japanese Society for Planetary Science
+- Ordinary member in Japan Society for Aeronautical and Space Sciences
+- Japanese Society for the Promotion of Science (日本学術振興会) Post-doctoral Fellowship
   
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
