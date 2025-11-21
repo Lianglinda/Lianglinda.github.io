@@ -140,7 +140,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 <details>
   <summary style="text-align:center; display:block; cursor:pointer;">
-  <summary>Click for more publications‼️</summary>
+  Click for more publications‼️
+  </summary>
   
   <ul>
     
@@ -177,7 +178,8 @@ My research interest includes neural machine translation and computer vision. I 
   
 <details>
   <summary style="text-align:center; display:block; cursor:pointer;">
-  <summary>Click for more information ‼️</summary>
+  Click for more information ‼️
+  </summary>
 
   <ul>
   <li>Ming Xu, <strong>Yuying Liang</strong>, Shijie Xu. A Cislunar In-orbit Infrastructure Using Cycler Trajectories in the Earth and Moon System. In: 64th IAC, 2013, Beijing.</li>
