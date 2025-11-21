@@ -137,6 +137,9 @@ My research interest includes neural machine translation and computer vision. I 
 - **Yuying Liang**, Ryuki Hyodo. Giga-year dynamical evolution of particles around Mars. Icarus, 2023, 391: 115335.
 - **Yuying Liang**, Nishanth Pushparaj, Yasuhiro Kawakatsu. A Point-To-Point Jumping Dynamics on Phobos by Prograde G’ Families. Journal of Guidance, Control, and Dynamics, 2022, 45(6): 1172-1183.
 - **Yuying Liang**, Nicola Begonia, Angel Jorba. Leveraging L3 to transfer to L4 in Sun-perturbed Earth-Moon System. Acta Astronautica, 2021, 189: 337-348.
+- **Yuying Liang**, Shan Jinjun, Ming Xu, Shijie Xu. Capturing an Asteroid via Triangular Libration Points. Journal of Guidance, Control, and Dynamics, 2020, 43(6): 1099-1113.
+- **Yuying Liang**, Gerard Gómez, Josep Masdemont, Ming Xu. Stable Regions of Motion Around a Binary Asteroid System. Journal of Guidance, Control, and Dynamics, 2019, 42(11): 2521-2531.
+- **Yuying Liang**, Jinjun Shan, Ming Xu, Mingpei Lin. The bifurcation of periodic orbits and equilibrium points in the linked restricted three-body problem with parameter ω. Chaos: An Interdisciplinary Journal of Nonlinear Science, 2019, 29(10): 103110.
 
 # 🌏 Conference Papers
 
