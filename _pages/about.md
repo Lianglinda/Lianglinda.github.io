@@ -153,6 +153,8 @@ My research interest includes neural machine translation and computer vision. I 
 - Ming Xu, **Yuying Liang**, et al. Attitude Pointing Schemes and Spacecraft Configurations for Libration-point-orbit Spacecraft. Aerospace Science and Technology, 2017, 65: 1-8.
 - Ming Xu, **Yuying Liang**, Shijie Xu. Formation Flying on Elliptic Orbits by Hamiltonian Structure-preserving Control. Journal of Guidance Control and Dynamics, 2018, 41(1): 291-299.
 - Xingji He, **Yuying Liang**, Ming Xu, et al. Low-thrust transfer to the Earth-Moon triangular libration point via horseshoe orbit. Acta Astronautica, 2020, 177: 111-121.
+- Hongliang Ma, Shijie Xu, **Yuying Liang**. Global optimization of fuel consumption in J2 rendezvous using interval analysis. Advances in Space Research, 2017, 59(6): 1577-1598.
+- Shuyue Fu, **Yuying Liang**, et al. Low-energy Earth-Moon transfers with lunar ballistic capture based on Lagrangian coherent structures in a four-body model. Advances in Space Research, 2025, 75(6): 4993-5013.
 
 # 🌏 Conference Papers
 
