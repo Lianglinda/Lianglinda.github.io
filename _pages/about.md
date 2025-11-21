@@ -52,8 +52,6 @@ My research interest includes neural machine translation and computer vision. I 
 _M Xu, **Y Liang**, X Fu_  
 Aerospace Science and Technology, 2017  
 
-[**PDF**](#) · [**Project**](#)
-
 - 提出一种在日地/月系受限动力学下的准 Halo 轨道编队飞行方法。
 
   </div>
