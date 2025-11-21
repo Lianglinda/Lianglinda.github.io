@@ -52,7 +52,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2016.04*  Best paper award in 17th China Annual Conference on Astrodynamics and Control Technology
  
 # 🎓 Educations
-- *2013.09 - 2018.06*, Beihang University, School of Astronautics & School of Advanced Engineering (Liberal Arts College),  
+- *2013.09 - 2018.06*, Beihang University, School of Astronautics & School of Advanced Engineering (Liberal Arts College),<br>
                        PhD (Hons) in Aerospace Engineering.
 - *2017.03 - 2017.05 & 2017.10 - 2017.12*, Universitat de Barcelona, Department of Mathematics and Computer Science,  
                        Adjoint Ph.D candidate. 
