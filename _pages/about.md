@@ -97,6 +97,35 @@ My research interest includes neural machine translation and computer vision. I 
   </div>
 </div>
 
+<div style="display:flex; margin-bottom:20px; align-items:flex-start; position: relative;">
+  <div style="flex: 0 0 200px; margin-right: 20px; position: relative;">
+    <!-- 蓝色标志 -->
+    <div style="
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        background-color: #3498db;
+        color: white;
+        padding: 2px 8px;
+        font-size: 12px;
+        font-weight: bold;
+        border-radius: 3px;
+        z-index: 10;">
+      PNAS
+    </div>
+    <img src="/images/paper1.jpg" alt="Paper 1" width="200" style="display:block;">
+  </div>
+  <div style="flex: 1;">
+    **Survey on advances in orbital dynamics and control for libration point orbits**  
+    _M Xu, Y Liang, K Ren_  
+    Progress in Aerospace Sciences, 2016  
+    <br>
+    对拉格朗日点轨道动力学与控制的最新进展进行了综述。
+    <br>
+    Project: 
+  </div>
+</div>
+
 # 📝 Publication List
 
 # 🌏 Conference Papers
