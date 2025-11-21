@@ -39,6 +39,22 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'>
+<div><div class="badge">Journal</div>
+<img src='/images/pub_default.png' alt="paper" width="100%"></div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+**Paper Title Here**  
+_Author A, Author B, **Yuying Liang**_  
+Journal / Conference, Year  
+
+[**PDF**](#) · [**Project**](#)
+
+- 在这里写一句简短的论文介绍（可选）。
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
