@@ -218,7 +218,8 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Teaching
 - *2025.04 - present*, Advanced Mathematics in Aerospace Science and Technolog (力学中的高阶数学方法), Beihang University.
 - *2025.09 - present*, Orbital Mechanics (English), Beihang University.
-- *2023.09 - present*, Flight Vehicle Dynamics of Deep Space Exploration (bilingual), Beihang University.
+- *2024.04 - present*, Orbital and Attitude Control of Spacecraft (航天器轨道与姿态控制), Beihang University. 
+- *2023.09 - present*, Flight Vehicle Dynamics of Deep Space Exploration (bilingual) (深空航天器轨道动力学与控制), Beihang University.
 
 # 👥 Fellowship
 - Committee Member (Observer) for Astrodynamics Committee of IAF (International Astronautical Federation)
