@@ -55,7 +55,7 @@ My research interest includes neural machine translation and computer vision. I 
         z-index: 10;">
       MNRAS
     </div>
-    <img src="/images/paper1.jpg" alt="Paper 1" width="150" style="display:block;">
+    <img src="/images/paper1.jpg" alt="Paper 1" width="200" style="display:block;">
   </div>
   <div style="flex: 1;">
     **Formation flying on quasi-halo orbits in restricted Sun–Earth/Moon system**  
