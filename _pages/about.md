@@ -139,7 +139,7 @@ My research interest includes neural machine translation and computer vision. I 
 - **Yuying Liang**, Jinjun Shan, Ming Xu, Mingpei Lin. The bifurcation of periodic orbits and equilibrium points in the linked restricted three-body problem with parameter ω. Chaos: An Interdisciplinary Journal of Nonlinear Science, 2019, 29(10): 103110.
 
 <details>
-  <summary>Click for more publications</summary>
+  <summary>Click for more publications‼️</summary>
   
   <ul>
     
@@ -169,7 +169,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 🌏 Conference Papers
 
 <details>
-  <summary>Click for more information</summary>
+  <summary>Click for more information ‼️</summary>
 
   <ul>
   <li>Ming Xu, <strong>Yuying Liang</strong>, Shijie Xu. A Cislunar In-orbit Infrastructure Using Cycler Trajectories in the Earth and Moon System. In: 64th IAC, 2013, Beijing.</li>
