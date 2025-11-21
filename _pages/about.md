@@ -86,11 +86,11 @@ My research interest includes neural machine translation and computer vision. I 
 <details>
   <summary>CLick for more information</summary>
   
-- Ming Xu, **Yuying Liang**, Shijie Xu. A Cislunar In-orbit Infrastructure Using Cycler Trajectories in the Earth and Moon System. In: 64th IAC, 2013, Beijing.
-- **Yuying Liang**, Ming Xu, Shijie Xu. Polygonal-like Periodic Orbit and its Application to a Cislunar In-orbit Infrustracture. In: 66th IAC, 2015, Jerusalem.
-- **Yuying Liang**, Ming Xu, Shijie Xu. Bounded Motions near Equilibrium Points of Contact Binary Asteroids by a Hamiltonian Structure-preserving Controller and its Applications. In: 67th IAC, 2016, Mexico.
-- **Yuying Liang**, Ming Xu, Shijie Xu. A New Analytic Approach of Resonance Orbits in the Earth-Moon System (in Chinese). In: 17th China Annual Conference on Astrodynamics and Control Technology, 2016, Changsha.
-- **Yuying Liang**, Gerard Gómez, Josep Masdemont, Ming Xu, Shijie Xu. Stable Regions Near Triangular Libration Points of Binary Asteroid System. In: 69th IAC, 2018, Toronto.
+    - Ming Xu, **Yuying Liang**, Shijie Xu. A Cislunar In-orbit Infrastructure Using Cycler Trajectories in the Earth and Moon System. In: 64th IAC, 2013, Beijing.
+    - **Yuying Liang**, Ming Xu, Shijie Xu. Polygonal-like Periodic Orbit and its Application to a Cislunar In-orbit Infrustracture. In: 66th IAC, 2015, Jerusalem.
+    - **Yuying Liang**, Ming Xu, Shijie Xu. Bounded Motions near Equilibrium Points of Contact Binary Asteroids by a Hamiltonian Structure-preserving Controller and its Applications. In: 67th IAC, 2016, Mexico.
+    - **Yuying Liang**, Ming Xu, Shijie Xu. A New Analytic Approach of Resonance Orbits in the Earth-Moon System (in Chinese). In: 17th China Annual Conference on Astrodynamics and Control Technology, 2016, Changsha.
+  - **Yuying Liang**, Gerard Gómez, Josep Masdemont, Ming Xu, Shijie Xu. Stable Regions Near Triangular Libration Points of Binary Asteroid System. In: 69th IAC, 2018, Toronto.
 - **Yuying Liang**, Jinjun Shan, Ming Xu, Shijie Xu. Capture an Asteroid to Earth-Moon Triangular Libration Points. In: Flight Mechanics Meeting, 2019, Hawaii.
 - **Yuying Liang**, Nishanth Pushparaj, Yasuhiro Kawakatsu, Masaki Fujimoto. Point-To-Point Jumping Dynamics on Phobos by Prograde Orbit Families. In: Flight Mechanics Meeting, 2020, Sagamihara.
 - **Yuying Liang**, Ryuki Hyodo. Evolution of Small Dust around Mars under Solar Radiation Forces. In: Annual Autumn Meeting by Japan Society of Planetary Science, 2020, Sagamihara.
