@@ -68,9 +68,23 @@ My research interest includes neural machine translation and computer vision. I 
   </div>
 </div>
 
-<div style="display:flex; margin-bottom:20px;">
-  <div style="flex: 0 0 200px; margin-right: 20px;">
-    <img src="/images/paper2.jpg" alt="Paper 2" width="200">
+<div style="display:flex; margin-bottom:20px; align-items:flex-start; position: relative;">
+  <div style="flex: 0 0 200px; margin-right: 20px; position: relative;">
+    <!-- 蓝色标志 -->
+    <div style="
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        background-color: #3498db;
+        color: white;
+        padding: 2px 8px;
+        font-size: 12px;
+        font-weight: bold;
+        border-radius: 3px;
+        z-index: 10;">
+      JGCD
+    </div>
+    <img src="/images/paper1.jpg" alt="Paper 1" width="200" style="display:block;">
   </div>
   <div style="flex: 1;">
     **Survey on advances in orbital dynamics and control for libration point orbits**  
