@@ -131,6 +131,7 @@ My research interest includes neural machine translation and computer vision. I 
   <summary>Click for more information</summary>
 
   - M Xu, **Y Liang**, X Fu. Formation flying on quasi-halo orbits in restricted Sun–Earth/Moon system. Aerospace Science and Technology 67, 118-125, 2017.
+    
   - M Xu, **Y Liang**, K Ren. Survey on advances in orbital dynamics and control for libration point orbits. Progress in Aerospace Sciences 82, 24-35, 2016.
 
 </details>
