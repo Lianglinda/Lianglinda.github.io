@@ -128,33 +128,17 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publication List
 
+- Lei Peng, **Yuying Liang**. From Asteroid Flybys to Galaxy Encounters: Hyperbolic Restricted Three-Body Problem with Extreme Mass Ratios. Monthly Notices of the Royal Astronomical Society, 2025, accepted.
+- Changchun Long, Shengping Gong, **Yuying Liang**. Constructing Cislunar Infrastructure on Distant Retrograde Orbit by Low-thrust Transfer. Advances in Space Research, 2025, 75(8), 6353-6375.
+- Lei Peng, Peng Shi, **Yuying Liang**. Analog of Lunar Sun-Synchronous Orbits Based on Spatial Distant Retrograde Orbits. Journal of Guidance, Control, and Dynamics, 2025, 48(6), 1439-1448.
+- **Yuying Liang**, Naoya Ozaki, Yasuhiro Kawakatsu, Masaki Fujimoto. A Flight-Information-Perceived Approach to Parameter Determination of Giant Asteroids: Revisiting Dawn Mission. Journal of Geophysical Research, 2025, 2, e2024JH000389.
+- Lei Peng, **Yuying Liang**, Xingji He. Transfers to Earth-Moon Triangular Libration Points by Sun-Perturbed Dynamics. Advances in Space Research, 2025, 75(3): 2837-2855.
+- **Yuying Liang**, Naoya Ozaki, Yasuhiro Kawakatsu, Masaki Fujimoto. Modelling internal structure of differentiated asteroids via data-driven approach. Monthly Notices of the Royal Astronomical Society, 2023, 519(2): 2349-2365.
+- **Yuying Liang**, Ryuki Hyodo. Giga-year dynamical evolution of particles around Mars. Icarus, 2023, 391: 115335.
+- **Yuying Liang**, Nishanth Pushparaj, Yasuhiro Kawakatsu. A Point-To-Point Jumping Dynamics on Phobos by Prograde G’ Families. Journal of Guidance, Control, and Dynamics, 2022, 45(6): 1172-1183.
+- **Yuying Liang**, Nicola Begonia, Angel Jorba. Leveraging L3 to transfer to L4 in Sun-perturbed Earth-Moon System. Acta Astronautica, 2021, 189: 337-348.
+
 # 🌏 Conference Papers
-
-<details>
-  <summary>Click for more information</summary>
-
-  - Ming Xu, **Yuying Liang**, Shijie Xu. A Cislunar In-orbit Infrastructure Using Cycler Trajectories in the Earth and Moon System. In: 64th IAC, 2013, Beijing.
-  - **Yuying Liang**, Ming Xu, Shijie Xu. Polygonal-like Periodic Orbit and its Application to a Cislunar In-orbit Infrustracture. In: 66th IAC, 2015, Jerusalem.
-  - **Yuying Liang**, Ming Xu, Shijie Xu. Bounded Motions near Equilibrium Points of Contact Binary Asteroids by a Hamiltonian Structure-preserving Controller and its Applications. In: 67th IAC, 2016, Mexico.
-  - **Yuying Liang**, Ming Xu, Shijie Xu. A New Analytic Approach of Resonance Orbits in the Earth-Moon System (in Chinese). In: 17th China Annual Conference on Astrodynamics and Control Technology, 2016, Changsha.
-  - **Yuying Liang**, Gerard Gómez, Josep Masdemont, Ming Xu, Shijie Xu. Stable Regions Near Triangular Libration Points of Binary Asteroid System. In: 69th IAC, 2018, Toronto.
-  - **Yuying Liang**, Jinjun Shan, Ming Xu, Shijie Xu. Capture an Asteroid to Earth-Moon Triangular Libration Points. In: Flight Mechanics Meeting, 2019, Hawaii.
-  - **Yuying Liang**, Nishanth Pushparaj, Yasuhiro Kawakatsu, Masaki Fujimoto. Point-To-Point Jumping Dynamics on Phobos by Prograde Orbit Families. In: Flight Mechanics Meeting, 2020, Sagamihara.
-  - **Yuying Liang**, Ryuki Hyodo. Evolution of Small Dust around Mars under Solar Radiation Forces. In: Annual Autumn Meeting by Japan Society of Planetary Science, 2020, Sagamihara.
-  - **Yuying Liang**, Yasuhiro Kawakatsu, Masaki Fujimoto. Perturbed Kepler Orbits around Phobos. In: 43rd COSPAR Scientific Assembly, 2020, online.
-  - **Yuying Liang**, Naoya Ozaki, Yasuhiro Kawakatsu, Masaki Fujimoto. Data-drive Modelling of Orbital Environment around a Small Body with Hard Core. In: GLEX, 2021, online.
-  - **Yuying Liang**, Naoya Ozaki, Yasuhiro Kawakatsu, Masaki Fujimoto. A Comparison of Data-drive Modelling of Internal Structure of a Small Body by INN and Polynomial Chaos. In: Flight Mechanics Meeting, 2021, online.
-  - **Yuying Liang**, Naoya Ozaki, Yasuhiro Kawakatsu, Masaki Fujimoto. Prediction of Large Porosity Structure of Phobos by Invertible Neural Network. In: Annual Meeting by Japan Society for Aeronautical and Space Sciences, 2021, Sagamihara.
-  - Lei Peng, **Yuying Liang**. Quasi-solar Synchronous Orbit around the Moon based on Spatial Distant Retrograde Orbits. In: 73nd IAC, 2023, Baku.
-  - Zhonghuai Yan, **Yuying Liang**. Automatic Landing-Information-based Reconstruction of Internal Structure for Small Bodies: MMX Case. In: 74th IAC, 2024, Milano.
-  - **Yuying Liang**, Lei Peng. Which Are Better: Retrograde or Prograde Orbits from the Perspective of Planetary Mission Design. In: 74th IAC, 2024, Milano.
-  - Lei Peng, **Yuying Liang**, Qingfang, Xiao. Separatrix of Bounded Orbits and Escaping Manifolds in Hyperbolic Restricted Three-Body Problem. In: 74th IAC, 2024, Milano.
-  - Chenyu Zhang, Yifei Xie, **Yuying Liang**. Constructing Shuttle-Mode Architecture in Cislunar Space for Reusable Flight Vehicles. In: 75th IAC, 2025, Sydney.
-  - Shengyu Gao, Yifei Xie, Lei Peng, **Yuying Liang**. Reconstruction of Lunar Gravity Anomalies and Heterogeneous Density Distribution based on Optical Guidance Information. In: 75th IAC, 2025, Sydney.
-  - Lei Peng, Yifei Xie, **Yuying Liang**. A Constellation-Volume-Preserved Approach for Formation Flying Design near Triangular Libration Points. In: 75th IAC, 2025, Sydney.
-  - Ferry Matthieu, **Yuying Liang**. Areostationary Mars Orbit: Dynamics, Control, and Applications. In: International Federation of Automatic Control (IFAC), 2025, Harbin.
-- 
-</details>
 
 <details>
   <summary>Click for more information</summary>
@@ -180,11 +164,7 @@ My research interest includes neural machine translation and computer vision. I 
   <li>Shengyu Gao, Yifei Xie, Lei Peng, <strong>Yuying Liang</strong>. Reconstruction of Lunar Gravity Anomalies and Heterogeneous Density Distribution based on Optical Guidance Information. In: 75th IAC, 2025, Sydney.</li>
   <li>Lei Peng, Yifei Xie, <strong>Yuying Liang</strong>. A Constellation-Volume-Preserved Approach for Formation Flying Design near Triangular Libration Points. In: 75th IAC, 2025, Sydney.</li>
   <li>Ferry Matthieu, <strong>Yuying Liang</strong>. Areostationary Mars Orbit: Dynamics, Control, and Applications. In: International Federation of Automatic Control (IFAC), 2025, Harbin.</li>
-
-    <li>M Xu, <strong>Y Liang</strong>, X Fu. Formation flying on quasi-halo orbits in restricted Sun–Earth/Moon system. Aerospace Science and Technology 67, 118-125, 2017.</li>
-
-    <li>M Xu, <strong>Y Liang</strong>, K Ren. Survey on advances in orbital dynamics and control for libration point orbits. Progress in Aerospace Sciences 82, 24-35, 2016.</li>
-
+    
   </ul>
 
 </details>
