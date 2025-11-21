@@ -82,6 +82,10 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publication List
 
 # 🌏 Conference Papers
+
+<details>
+  <summary>CLick for more information</summary>
+  
 - Ming Xu, **Yuying Liang**, Shijie Xu. A Cislunar In-orbit Infrastructure Using Cycler Trajectories in the Earth and Moon System. In: 64th IAC, 2013, Beijing.
 - **Yuying Liang**, Ming Xu, Shijie Xu. Polygonal-like Periodic Orbit and its Application to a Cislunar In-orbit Infrustracture. In: 66th IAC, 2015, Jerusalem.
 - **Yuying Liang**, Ming Xu, Shijie Xu. Bounded Motions near Equilibrium Points of Contact Binary Asteroids by a Hamiltonian Structure-preserving Controller and its Applications. In: 67th IAC, 2016, Mexico.
@@ -101,7 +105,9 @@ My research interest includes neural machine translation and computer vision. I 
 - Chenyu Zhang, Yifei Xie, **Yuying Liang**. Constructing Shuttle-Mode Architecture in Cislunar Space for Reusable Flight Vehicles. In: 75th IAC, 2025, Sydney.
 - Shengyu Gao, Yifei Xie, Lei Peng, **Yuying Liang**. Reconstruction of Lunar Gravity Anomalies and Heterogeneous Density Distribution based on Optical Guidance Information. In: 75th IAC, 2025, Sydney.
 - Lei Peng, Yifei Xie, **Yuying Liang**. A Constellation-Volume-Preserved Approach for Formation Flying Design near Triangular Libration Points. In: 75th IAC, 2025, Sydney.
-- Ferry Matthieu, **Yuying Liang**. Areostationary Mars Orbit: Dynamics, Control, and Applications. In: International Federation of Automatic Control (IFAC), 2025, Harbin. 
+- Ferry Matthieu, **Yuying Liang**. Areostationary Mars Orbit: Dynamics, Control, and Applications. In: International Federation of Automatic Control (IFAC), 2025, Harbin.
+
+</details>
 
 # 🎖 Honors and Awards
 - *2019.11-2021.11*  Japanese Society for the Promotion of Science (日本学術振興会) Fellowship
