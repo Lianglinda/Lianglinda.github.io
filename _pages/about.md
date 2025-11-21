@@ -86,7 +86,7 @@ My research interest includes neural machine translation and computer vision. I 
 <details>
   <summary>CLick for more information</summary>
   
-- Ming Xu, <b>Yuying Liang, Shijie Xu. A Cislunar In-orbit Infrastructure Using Cycler Trajectories in the Earth and Moon System. In: 64th IAC, 2013, Beijing.
+- Ming Xu, <b>Yuying Liang<\b>, Shijie Xu. A Cislunar In-orbit Infrastructure Using Cycler Trajectories in the Earth and Moon System. In: 64th IAC, 2013, Beijing.
 - <b>Yuying Liang, Ming Xu, Shijie Xu. Polygonal-like Periodic Orbit and its Application to a Cislunar In-orbit Infrustracture. In: 66th IAC, 2015, Jerusalem.
 - **Yuying Liang**, Ming Xu, Shijie Xu. Bounded Motions near Equilibrium Points of Contact Binary Asteroids by a Hamiltonian Structure-preserving Controller and its Applications. In: 67th IAC, 2016, Mexico.
 - **Yuying Liang**, Ming Xu, Shijie Xu. A New Analytic Approach of Resonance Orbits in the Earth-Moon System (in Chinese). In: 17th China Annual Conference on Astrodynamics and Control Technology, 2016, Changsha.
