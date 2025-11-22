@@ -282,6 +282,7 @@ My research focuses on orbital dynamics and mission design, including Earth–Mo
 
 Focusing on cislunar space resource development and space security defence, the research covers cislunar transfer orbit design, intelligent guidance and control for deep-space exploration, and data-driven modelling of small-body internal structures. The PI leads multiple projects, including the National Natural Science Foundation of China, the Beijing Natural Science Foundation, the KGJ Civil Space 145 Program, and the Open Fund of National Key Laboratories.
 <br>
+<br>
 聚焦地月空间资源开发与空间安全防御，主要研究方向包括地月转移轨道设计、深空智能探测制导与控制，以及小天体内部结构的数据驱动建模。主持多项科研项目，涵盖国家自然科学基金、北京市自然科学基金、KGJ 民用航天“十四五”专项以及国家重点实验室开放基金等纵向与横向课题。
 
 # 🎖 Honors and Awards
