@@ -17,8 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+Hi there~ I am Yuying Liang, currently a professor at Beihang University. Welcome to my academic page.
+<br>
 大家好，我叫梁玉莹，目前是北京航空航天大学宇航学院的老师，主要从事航天器动力学与控制、地月空间任务设计、小天体动力学与智能建模等研究，关注“既远又近”的空间动力学奥秘。曾在海外求学多年，积累了丰富的科研经验，受邀加入日本宇宙航空研究开发机构（JAXA）宇宙科学研究所，作为 JSPS 学者深度参与火星卫星探测任务（MMX），负责火卫一动力学环境建模、尘埃环演化分析及小天体内部结构反演，为任务轨道设计与探测方案提供动力学支撑。回国后，带领学生团队聚焦地月空间资源开发与空间安全防御，开展地月转移轨道设计、深空智能探测制导控制及小天体内部结构数据驱动建模等前沿研究。近期开展了多源信息融合的空间交会对接技术研究。
-
+<br>
 My research focuses on orbital dynamics and mission design, including Earth–Moon transfers, asteroid capture, and small-body formations. I also work on cislunar infrastructure, computational astronomy, and data-driven methods for trajectory design and in-orbit assembly.
 
 # 🌸 To my students 🌸
@@ -38,7 +40,8 @@ My research focuses on orbital dynamics and mission design, including Earth–Mo
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 课题组的多源传感器空间交会平台搭建好了！ 
-- *2025.06*: &nbsp;🎉🎉 恭喜宸宇同学，第六届全国航空航天本科毕业设计特等奖第二名，再接再厉～ 
+- *2025.06*: &nbsp;🎉🎉 恭喜宸宇同学，第六届全国航空航天本科毕业设计特等奖第二名，再接再厉～
+- *2025.10*: &nbsp;🎉🎉 外国专家合作计划获批了，热烈欢迎西班牙Martin Lara教授来华工作！  
 
 # 🏆 Selected Publications
 
@@ -305,8 +308,9 @@ Focusing on cislunar space resource development and space security defence, the 
 - *2018.11 - 2019.11*, York University, Lassonde School of Engineering, Postdoctoral Fellow (Prof. Jinjun Shan)
 
 # 🎤 Invited Talks
+- *2024.10*, **Artificial Intelligence for Dynamical Systems: More than Application**, University of Torino, Spain.
 - *2025.09*, **Evolution of Earth–Moon Transfer Design: From Apollo to Beyond Gateway**, CSA-IAA Conference on Advanced Space Technology, Shanghai. 
-- *2025.09*, **Key Technologies for Reconstructing Planetary Interiors and Gravity Fields in Deep Space Missions**，Innovation Forum on Critical Technologies for Major Equipment Integration, Harbin. \| [\[video\]](https://github.com/)
+- *2025.09*, **Key Technologies for Reconstructing Planetary Interiors and Gravity Fields in Deep Space Missions**，Innovation Forum on Critical Technologies for Major Equipment Integration, Harbin.
 
 # 📝 Teaching
 - *2025.04 - present*, Advanced Mathematics in Aerospace Science and Technolog (力学中的高阶数学方法), Beihang University.
