@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+大家好，我叫梁玉莹，目前是北京航空航天大学宇航学院的老师，主要从事航天器动力学与控制、地月空间任务设计、小天体动力学与智能建模等研究，关注“既远又近”的空间动力学奥秘。曾在海外求学多年，积累了丰富的科研经验，受邀加入日本宇宙航空研究开发机构（JAXA）宇宙科学研究所，作为 JSPS 学者深度参与火星卫星探测任务（MMX），负责火卫一动力学环境建模、尘埃环演化分析及小天体内部结构反演，为任务轨道设计与探测方案提供动力学支撑。回国后，带领学生团队聚焦地月空间资源开发与空间安全防御，开展地月转移轨道设计、深空智能探测制导控制及小天体内部结构数据驱动建模等前沿研究。近期开展了多源信息融合的空间交会对接技术研究。
 
 My research focuses on orbital dynamics and mission design, including Earth–Moon transfers, asteroid capture, and small-body formations. I also work on cislunar infrastructure, computational astronomy, and data-driven methods for trajectory design and in-orbit assembly.
 
@@ -37,8 +37,8 @@ My research focuses on orbital dynamics and mission design, including Earth–Mo
    <center> 🔆🔆🔆 <b>希望每一位加入课题组的同学，都能在科研的道路上找到属于自己的热爱与方向 🔆🔆🔆
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2025.05*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.03*: &nbsp;🎉🎉 课题组的多源传感器空间交会平台搭建好了！ 
+- *2025.06*: &nbsp;🎉🎉 恭喜宸宇同学，第六届全国航空航天本科毕业设计特等奖第二名，再接再厉～ 
 
 # 🏆 Selected Publications
 
