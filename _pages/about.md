@@ -56,7 +56,7 @@ My research interest includes neural machine translation and computer vision. I 
         font-weight: bold;
         border-radius: 3px;
         z-index: 10;">
-      MNRAS
+      JGCD
     </div>
     <img src="/images/paper1.jpg" alt="Paper 1" width="200" style="display:block;">
   </div>
@@ -85,18 +85,18 @@ My research interest includes neural machine translation and computer vision. I 
         font-weight: bold;
         border-radius: 3px;
         z-index: 10;">
-      JGCD
+      MNRAS
     </div>
-    <img src="/images/paper2.jpg" alt="Paper 1" width="200" style="display:block;">
+    <img src="/images/paper2.jpg" alt="Paper 2" width="200" style="display:block;">
   </div>
   <div style="flex: 1;">
-    **Survey on advances in orbital dynamics and control for libration point orbits**  
-    _M Xu, Y Liang, K Ren_  
-    Progress in Aerospace Sciences, 2016  
+    <strong>Modelling internal structure of differentiated asteroids via data-driven approach</strong>  
+    Yuying Liang, Naoya Ozaki, Yasuhiro Kawakatsu, Masaki Fujimoto  
+    Monthly Notices of the Royal Astronomical Society, 2023, 519(2): 2349-2365  
     <br>
-    对拉格朗日点轨道动力学与控制的最新进展进行了综述。
+    以往研究（如 Takahashi and Scheeres 2014，Park 等 2014）通常利用实测的高阶引力场数据来反演天体的非均匀质量分布。相比之下，本方法仅以航天器的飞行状态作为观测量。由于内部参数并不一定唯一，传统前馈神经网络难以直接用于此类逆问题。本文采用的可逆神经网络（INNs）则能够从航天器的飞行轨迹中直接“读取”其内部结构信息。。
     <br>
-    Project: 
+    Project: National Science Foundation of China for Excellent Youth Scholar (Oveaseas)
   </div>
 </div>
 
