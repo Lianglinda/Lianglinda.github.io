@@ -19,7 +19,7 @@ redirect_from:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research focuses on orbital dynamics and mission design, including Earth–Moon transfers, asteroid capture, and small-body formations. I also work on cislunar infrastructure, computational astronomy, and data-driven methods for trajectory design and in-orbit assembly.
 
 # 🌸 To my students 🌸
 基于路漫漫兮修远兮，吾将上下而求索。欢迎数理兼修、文体并茂的学生加入课题组。立志打造亦师亦友的新型学术伙伴关系，共同攀登知识的山峰，享受科研的乐趣！
@@ -37,8 +37,8 @@ My research interest includes neural machine translation and computer vision. I 
    <center> 🔆🔆🔆 <b>希望每一位加入课题组的同学，都能在科研的道路上找到属于自己的热爱与方向 🔆🔆🔆
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 🏆 Selected Publications
 
@@ -275,11 +275,10 @@ My research interest includes neural machine translation and computer vision. I 
 </details>
 
 # 🚀 Project
-- *2023.11 - present*, Beihang University, School of Astronautics, Full Professor.
-- *2022.03 - 2023.11*, Beihang University, School of Astronautics, Associate Professor.
-- *2019.11 - 2021.11*, JAXA, ISAS (Institue of Space and Astronautical Sciences), JSPS Fellow (Prof. Kawakatsu & Prof. Fujimoto).
-- *2019.07 - 2019.10*, Universitat de Barcelona, Department of Mathematics and Computer Science, Visiting PDF (Prof. Jorba).
-- *2018.11 - 2019.11*, York University, Lassonde School of Engineering, Postdoctoral Fellow (Prof. Jinjun Shan)
+
+Focusing on cislunar space resource development and space security defence, the research covers cislunar transfer orbit design, intelligent guidance and control for deep-space exploration, and data-driven modelling of small-body internal structures. The PI leads multiple projects, including the National Natural Science Foundation of China, the Beijing Natural Science Foundation, the KGJ Civil Space 145 Program, and the Open Fund of National Key Laboratories.
+<br>
+聚焦地月空间资源开发与空间安全防御，主要研究方向包括地月转移轨道设计、深空智能探测制导与控制，以及小天体内部结构的数据驱动建模。主持多项科研项目，涵盖国家自然科学基金、北京市自然科学基金、KGJ 民用航天“十四五”专项以及国家重点实验室开放基金等纵向与横向课题。
 
 # 🎖 Honors and Awards
 - *2019.11-2021.11*  Japanese Society for the Promotion of Science (日本学術振興会) Fellowship
