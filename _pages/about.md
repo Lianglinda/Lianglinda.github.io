@@ -94,9 +94,9 @@ My research interest includes neural machine translation and computer vision. I 
     Yuying Liang, Naoya Ozaki, Yasuhiro Kawakatsu, Masaki Fujimoto  
     Monthly Notices of the Royal Astronomical Society, 2023  
     <br>
-    以往研究（如 Takahashi and Scheeres 2014，Park 等 2014）通常利用实测的高阶引力场数据来反演天体的非均匀质量分布。相比之下，本方法仅以航天器的飞行状态作为观测量，采用的可逆神经网络（INNs）能够从航天器的飞行轨迹中直接“读取”其内部结构信息。。
+    以往研究（如 Takahashi and Scheeres 2014，Park 等 2014）通常利用实测的高阶引力场数据来反演天体的非均匀质量分布。相比之下，本方法仅以航天器的飞行状态作为观测量，采用的可逆神经网络（INNs）能够从航天器的飞行轨迹中直接“读取”其内部结构信息。
     <br>
-    Project: National Science Foundation of China for Excellent Youth Scholar (Oveaseas)
+    Project: National Science Foundation of China for Excellent Youth Scholar (Overseas)
   </div>
 </div>
 
@@ -125,7 +125,7 @@ My research interest includes neural machine translation and computer vision. I 
     <br>
     提出一种基于飞行信息感知的结构重建方法，仅依托航天器轨迹即可高效推断分化小天体的内部结构。该方法以高效可逆神经网络（INNs）为核心，显著优于耗时的经典流程。在以曙光号任务为例的验证中，输入一条真实飞行轨迹，即可在星载设备上即时重建谷神星和灶神星的内部结构，结果与经典反演高度一致，并揭示了新的科学特征。
     <br>
-    Project: National Science Fund of China for Excellent Youth Scholar (Oveaseas)
+    Project: National Science Fund of China for Excellent Youth Scholar (Overseas)
   </div>
 </div>
 
