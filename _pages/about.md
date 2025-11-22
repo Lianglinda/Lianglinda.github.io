@@ -100,7 +100,7 @@ My research interest includes neural machine translation and computer vision. I 
     <br>
     本方法仅以航天器的飞行状态作为观测量，采用的可逆神经网络（INNs）能够从航天器的飞行轨迹中直接“读取”其内部结构信息。
     <br>
-    Project: National Science Foundation of China for Excellent Youth Scholar (Overseas)
+    Project: National Science Foundation of Beijing for Youth Scholar
   </div>
 </div>
 
