@@ -63,9 +63,9 @@ My research interest includes neural machine translation and computer vision. I 
   <div style="flex: 1;">
     <strong>A Point-To-Point Jumping Dynamics on Phobos by Prograde G’ Families</strong>  
     Yuying Liang, Nishanth Pushparaj, Yasuhiro Kawakatsu  
-    Journal of Guidance, Control, and Dynamics, 2022, 45(6): 1172-1183  
+    Journal of Guidance, Control, and Dynamics, 2022 
     <br>
-    提出一种基于顺行轨道族的火卫一点对点跳跃机制。该轨道弧段所需的起跳与着陆速度仅约 2–4 m/s，并可通过参数分析实现最长约 2 小时的飞行时间及不足 4 km 的最高高度。结果表明，JAXA 的 MINERVA 级微型探测器能够实现这一轻量化的表面跳跃方案。
+    提出一种基于顺行轨道族的火卫一点对点跳跃机制。JAXA 的 MINERVA 级微型探测器能够实现这一轻量化的表面跳跃方案。
     <br>
     Project: Martian Moon eXploration (MMX) mission
   </div>
@@ -92,9 +92,9 @@ My research interest includes neural machine translation and computer vision. I 
   <div style="flex: 1;">
     <strong>Modelling internal structure of differentiated asteroids via data-driven approach</strong>  
     Yuying Liang, Naoya Ozaki, Yasuhiro Kawakatsu, Masaki Fujimoto  
-    Monthly Notices of the Royal Astronomical Society, 2023, 519(2): 2349-2365  
+    Monthly Notices of the Royal Astronomical Society, 2023  
     <br>
-    以往研究（如 Takahashi and Scheeres 2014，Park 等 2014）通常利用实测的高阶引力场数据来反演天体的非均匀质量分布。相比之下，本方法仅以航天器的飞行状态作为观测量。由于内部参数并不一定唯一，传统前馈神经网络难以直接用于此类逆问题。本文采用的可逆神经网络（INNs）则能够从航天器的飞行轨迹中直接“读取”其内部结构信息。。
+    以往研究（如 Takahashi and Scheeres 2014，Park 等 2014）通常利用实测的高阶引力场数据来反演天体的非均匀质量分布。相比之下，本方法仅以航天器的飞行状态作为观测量，采用的可逆神经网络（INNs）能够从航天器的飞行轨迹中直接“读取”其内部结构信息。。
     <br>
     Project: National Science Foundation of China for Excellent Youth Scholar (Oveaseas)
   </div>
@@ -121,11 +121,40 @@ My research interest includes neural machine translation and computer vision. I 
   <div style="flex: 1;">
     <strong>A Flight-Information-Perceived Approach to Parameter Determination of Giant Asteroids: Revisiting Dawn Mission</strong>  
     Yuying Liang, Naoya Ozaki, Yasuhiro Kawakatsu, Masaki Fujimoto  
-    Journal of Geophysical Research, 2025, 2, e2024JH000389  
+    Journal of Geophysical Research, 2025  
     <br>
     提出一种基于飞行信息感知的结构重建方法，仅依托航天器轨迹即可高效推断分化小天体的内部结构。该方法以高效可逆神经网络（INNs）为核心，显著优于耗时的经典流程。在以曙光号任务为例的验证中，输入一条真实飞行轨迹，即可在星载设备上即时重建谷神星和灶神星的内部结构，结果与经典反演高度一致，并揭示了新的科学特征。
     <br>
-    Project: 
+    Project: National Science Fund of China for Excellent Youth Scholar (Oveaseas)
+  </div>
+</div>
+
+<div style="display:flex; margin-bottom:20px; align-items:flex-start; position: relative;">
+  <div style="flex: 0 0 200px; margin-right: 20px; position: relative;">
+    <!-- 蓝色标志 -->
+    <div style="
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        background-color: #3498db;
+        color: white;
+        padding: 2px 8px;
+        font-size: 12px;
+        font-weight: bold;
+        border-radius: 3px;
+        z-index: 10;">
+      JGCD
+    </div>
+    <img src="/images/paper4.jpg" alt="Paper 4" width="200" style="display:block;">
+  </div>
+  <div style="flex: 1;">
+    <strong>Analog of Lunar Sun-Synchronous Orbits Based on Spatial Distant Retrograde Orbits</strong>  
+    Lei Peng, Peng Shi, Yuying Liang  
+    Journal of Guidance, Control, and Dynamics, 2025  
+    <br>
+    提出一种长期稳定的三维 DRO 轨道，可在月球探测任务中提供优于经典太阳同步轨道的日照条件。多数 Super-SSOs 三年内日照比例超过 98.5%，最长阴影不足 550 分钟，可完全替代月球 SSO，为长期可持续的月球任务提供理想轨道方案。
+    <br>
+    Project: Shanghai Space Technology Innovation Fund
   </div>
 </div>
 
@@ -145,45 +174,16 @@ My research interest includes neural machine translation and computer vision. I 
         z-index: 10;">
       MNRAS
     </div>
-    <img src="/images/paper1.jpg" alt="Paper 1" width="200" style="display:block;">
+    <img src="/images/paper5.jpg" alt="Paper 5" width="200" style="display:block;">
   </div>
   <div style="flex: 1;">
-    **Survey on advances in orbital dynamics and control for libration point orbits**  
-    _M Xu, Y Liang, K Ren_  
-    Progress in Aerospace Sciences, 2016  
+    <strong>Asteroid Flybys to Galaxy Encounters: Hyperbolic Restricted Three-Body Problem with Extreme Mass Ratios</strong>  
+    Lei Peng, Yuying Liang  
+    Monthly Notices of the Royal Astronomical Society, 2025  
     <br>
-    对拉格朗日点轨道动力学与控制的最新进展进行了综述。
+    双曲接近在多种动力学系统中具有重要作用，从小行星掠过到星系相互作用。提出了一种基于双曲受限三体问题的物质交换解析框架，证明 L1 附近“颈区”的开启由随时间变化的能量边界决定，与星系间潮汐桥的形成规律相一致。
     <br>
-    Project: 
-  </div>
-</div>
-
-<div style="display:flex; margin-bottom:20px; align-items:flex-start; position: relative;">
-  <div style="flex: 0 0 200px; margin-right: 20px; position: relative;">
-    <!-- 蓝色标志 -->
-    <div style="
-        position: absolute;
-        top: 10px;
-        left: 10px;
-        background-color: #3498db;
-        color: white;
-        padding: 2px 8px;
-        font-size: 12px;
-        font-weight: bold;
-        border-radius: 3px;
-        z-index: 10;">
-      MNRAS
-    </div>
-    <img src="/images/paper1.jpg" alt="Paper 1" width="200" style="display:block;">
-  </div>
-  <div style="flex: 1;">
-    **Survey on advances in orbital dynamics and control for libration point orbits**  
-    _M Xu, Y Liang, K Ren_  
-    Progress in Aerospace Sciences, 2016  
-    <br>
-    对拉格朗日点轨道动力学与控制的最新进展进行了综述。
-    <br>
-    Project: 
+    Project: National Science Fund of China for Youth Scholar
   </div>
 </div>
 
