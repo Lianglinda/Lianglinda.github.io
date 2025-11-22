@@ -34,8 +34,8 @@ My research focuses on orbital dynamics and mission design, including Earth–Mo
 3. 组会上优雅的躺平姿势 
 4. 学术报告防打瞌睡指南 
 5. 让我们荡起双桨——完成第一篇共同署名论文
-
-   
+<br>
+<br>
    <center> 🔆🔆🔆 <b>希望每一位加入课题组的同学，都能在科研的道路上找到属于自己的热爱与方向 🔆🔆🔆
 
 # 🔥 News
