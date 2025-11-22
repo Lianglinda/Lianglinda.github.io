@@ -67,7 +67,7 @@ My research interest includes neural machine translation and computer vision. I 
     <br>
     Journal of Guidance, Control, and Dynamics, 2022 
     <br>
-    提出一种基于顺行轨道族的火卫一点对点跳跃机制。JAXA 的 MINERVA 级微型探测器能实现此轻量化的表面跳跃方案。
+    提出一种基于顺行轨道的火卫一点对点跳跃机制。JAXA的MINERVA级微型探测器能实现此轻量化的表面跳跃方案。
     <br>
     Project: Martian Moon eXploration (MMX) mission
   </div>
