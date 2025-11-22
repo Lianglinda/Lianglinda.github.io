@@ -20,10 +20,9 @@ redirect_from:
 Hi there~ I am Yuying Liang, currently a professor at Beihang University. Welcome to my academic page.
 <br>
 <br>
-大家好，我叫梁玉莹，目前是北京航空航天大学宇航学院的老师，主要从事航天器动力学与控制、地月空间任务设计、小天体动力学与智能建模等研究，关注“既远又近”的空间动力学奥秘。曾在海外求学多年，受邀加入日本宇宙航空研究开发机构（JAXA）宇宙科学研究所，作为 JSPS 学者深度参与火星卫星探测任务（MMX），负责火卫一动力学环境建模、尘埃环演化分析及小天体内部结构反演，为任务轨道设计与探测方案提供动力学支撑。回国后，带领学生团队聚焦地月空间资源开发与空间安全防御，开展地月转移轨道设计、深空智能探测制导控制及小天体内部结构数据驱动建模等前沿研究。近期开展了多源信息融合的空间交会对接技术研究。
-<br>
-<br>
 My research focuses on orbital dynamics and mission design, including Earth–Moon transfers, asteroid capture, and small-body formations. I also work on cislunar infrastructure, computational astronomy, and data-driven methods for trajectory design and in-orbit assembly.
+
+大家好，我叫梁玉莹，目前是北京航空航天大学宇航学院的老师，主要从事航天器动力学与控制、地月空间任务设计、小天体动力学与智能建模等研究，关注“既远又近”的空间动力学奥秘。曾在海外求学多年，受邀加入日本宇宙航空研究开发机构（JAXA）宇宙科学研究所，作为 JSPS 学者深度参与火星卫星探测任务（MMX），负责火卫一动力学环境建模、尘埃环演化分析及小天体内部结构反演，为任务轨道设计与探测方案提供动力学支撑。回国后，带领学生团队聚焦地月空间资源开发与空间安全防御，开展地月转移轨道设计、深空智能探测制导控制及小天体内部结构数据驱动建模等前沿研究。近期开展了多源信息融合的空间交会对接技术研究。
 
 # 🌸 To my students 🌸
 基于路漫漫兮修远兮，吾将上下而求索。欢迎数理兼修、文体并茂的学生加入课题组。立志打造亦师亦友的新型学术伙伴关系，共同攀登知识的山峰，享受科研的乐趣！
