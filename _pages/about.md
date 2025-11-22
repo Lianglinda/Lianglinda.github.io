@@ -61,13 +61,13 @@ My research interest includes neural machine translation and computer vision. I 
     <img src="/images/paper1.jpg" alt="Paper 1" width="200" style="display:block;">
   </div>
   <div style="flex: 1;">
-    **Formation flying on quasi-halo orbits in restricted Sun–Earth/Moon system**  
-    _M Xu, Y Liang, X Fu_  
-    Aerospace Science and Technology, 2017  
+    <strong>A Point-To-Point Jumping Dynamics on Phobos by Prograde G’ Families</strong>  
+    Yuying Liang, Nishanth Pushparaj, Yasuhiro Kawakatsu  
+    Journal of Guidance, Control, and Dynamics, 2022, 45(6): 1172-1183  
     <br>
-    提出一种在日地/月系受限动力学下的准 Halo 轨道编队飞行方法。
+    提出一种基于顺行轨道族的火卫一点对点跳跃机制。该轨道弧段所需的起跳与着陆速度仅约 2–4 m/s，并可通过参数分析实现最长约 2 小时的飞行时间及不足 4 km 的最高高度。结果表明，JAXA 的 MINERVA 级微型探测器能够实现这一轻量化的表面跳跃方案。
     <br>
-    Project: 
+    Project: Martian Moon eXploration (MMX) mission
   </div>
 </div>
 
@@ -87,7 +87,7 @@ My research interest includes neural machine translation and computer vision. I 
         z-index: 10;">
       JGCD
     </div>
-    <img src="/images/paper1.jpg" alt="Paper 1" width="200" style="display:block;">
+    <img src="/images/paper2.jpg" alt="Paper 1" width="200" style="display:block;">
   </div>
   <div style="flex: 1;">
     **Survey on advances in orbital dynamics and control for libration point orbits**  
