@@ -312,6 +312,7 @@ Focusing on cislunar space resource development and space security defence, the 
 - *2024.10*, **Artificial Intelligence for Dynamical Systems: More than Application**, University of Torino, Spain.
 - *2025.09*, **Evolution of Earth–Moon Transfer Design: From Apollo to Beyond Gateway**, CSA-IAA Conference on Advanced Space Technology, Shanghai. 
 - *2025.09*, **Key Technologies for Reconstructing Planetary Interiors and Gravity Fields in Deep Space Missions**，Innovation Forum on Critical Technologies for Major Equipment Integration, Harbin.
+- *2025.11*, **Intelligent Alignment and Multi-modal Data Fusion Strategies for Contact-Based Space Assembly**，SNL of National Key Laboratory of Aerospace Mechanism, Shanghai (online).
 
 # 📝 Teaching
 - *2025.04 - present*, Advanced Mathematics in Aerospace Science and Technolog (力学中的高阶数学方法), Beihang University.
@@ -328,4 +329,23 @@ Focusing on cislunar space resource development and space security defence, the 
 - Ordinary member in Japanese Society for Planetary Science
 - Ordinary member in Japan Society for Aeronautical and Space Sciences
 - Japanese Society for the Promotion of Science (日本学術振興会) Post-doctoral Fellowship
+
+<!-- research map start -->
+<h2 style="text-align:center;">🌍 Research Network</h2>
+<div id="research-map" style="width:100%; max-width:1100px; height:480px; margin: 0 auto 24px auto; border-radius:8px; overflow:hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08)"></div>
+
+<!-- Leaflet CSS/JS (CDN) -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  integrity="sha256-sA+o0q4J5qE6qba9oN1w3h4H+2iwgWvQvURy0w3M6Hk=" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+  integrity="sha256-XQoYMqMTK8LvdlxU/3pGkXwM0sA9gqkR0sA+GkZfY1w=" crossorigin=""></script>
+
+<!-- Optional: leaflet-curve for curved polylines (CDN) -->
+<script src="https://cdn.jsdelivr.net/npm/leaflet-curve@0.3.0/leaflet-curve.min.js"></script>
+
+<!-- Map data and script -->
+<script src="/assets/data/collaborators.json" type="application/json" id="collab-data" defer></script>
+<script src="/assets/js/research-map.js" defer></script>
+<!-- research map end -->
+
 
