@@ -242,7 +242,7 @@ My research focuses on dynamics and control of spacecraft and mission design, in
 
 </details>
 
-# 🌏 Conference Papers
+# 📫 Conference Papers
 
 - Chenyu Zhang, Yifei Xie, <strong>Yuying Liang</strong>. Constructing Shuttle-Mode Architecture in Cislunar Space for Reusable Flight Vehicles. In: 75th IAC, 2025, Sydney.
 - Shengyu Gao, Yifei Xie, Lei Peng, <strong>Yuying Liang</strong>. Reconstruction of Lunar Gravity Anomalies and Heterogeneous Density Distribution based on Optical Guidance Information. In: 75th IAC, 2025, Sydney.
@@ -331,7 +331,7 @@ Focusing on cislunar space resource development and space security defence, the 
 - Japanese Society for the Promotion of Science (日本学術振興会) Post-doctoral Fellowship
 
 <!-- research map start -->
-<h2 style="text-align:center;">🌍 Research Network</h2>
+<h2 style="text-align⬅️;">🌍 Research Network</h2>
 <div id="research-map" style="width:100%; max-width:1100px; height:480px; margin: 0 auto 24px auto; border-radius:8px; overflow:hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08)"></div>
 
 <!-- Leaflet CSS/JS (CDN) -->
