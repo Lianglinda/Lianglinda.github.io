@@ -331,26 +331,39 @@ Focusing on cislunar space resource development and space security defence, the 
 - Japanese Society for the Promotion of Science (日本学術振興会) Post-doctoral Fellowship
 
 <!-- research map start -->
-<h2 style="text-align:left;">🌍 Research Network</h2> 
+<h2 style="text-align:left;">🌍 Research Network</h2>
 <div id="research-map" 
-     style="width:100%; max-width:1100px; height:480px; margin:0 auto 24px auto; border-radius:8px; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,0.08);">
+     style="width:100%; max-width:1100px; height:520px; margin:0 auto 24px auto; border-radius:10px; overflow:hidden; box-shadow:0 4px 12px rgba(0,0,0,0.12);">
 </div>
 
 <!-- Leaflet CSS/JS -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
-<!-- Optional leaflet-curve -->
+<!-- leaflet-curve for smooth arcs -->
 <script src="https://cdn.jsdelivr.net/npm/leaflet-curve@0.3.0/leaflet-curve.min.js"></script>
 
-<!-- Embedded map script -->
+<!-- custom marker CSS -->
+<style>
+  .collab-popup img {
+    width: 80px;
+    height: 80px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.25);
+    margin-bottom: 8px;
+  }
+  .collab-popup b {
+    font-size: 16px;
+  }
+</style>
+
 <script>
 document.addEventListener("DOMContentLoaded", async () => {
-    // 1. Load JSON from assets/data
+    // === 1. Load data ===
     const response = await fetch("assets/data/collaborators.json");
     const data = await response.json();
 
-    // 2. Init map
+    // === 2. Create map ===
     const map = L.map("research-map", {
         center: data.center,
         zoom: data.zoom,
@@ -358,64 +371,61 @@ document.addEventListener("DOMContentLoaded", async () => {
         worldCopyJump: true
     });
 
-    // 3. Add tile layer
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
         maxZoom: 6,
-        attribution: "&copy; OpenStreetMap Contributors"
+        attribution: "&copy; OpenStreetMap"
     }).addTo(map);
 
-    // 4. Create marker icons
-    function createIcon(imgUrl) {
-        return L.icon({
-            iconUrl: imgUrl,
-            iconSize: [44, 44],
-            iconAnchor: [22, 22],
-            className: "research-marker"
-        });
-    }
-
-    // 5. Add markers
-    const nodeMap = {};
-    data.nodes.forEach(node => {
-        const marker = L.marker([node.lat, node.lon], {
-            icon: createIcon(node.img)
-        }).addTo(map);
-
-        let popupHTML = `
-            <div style="text-align:center;">
-                <img src="${node.img}" style="width:60px;height:60px;border-radius:6px;margin-bottom:8px;" /><br>
-                <b>${node.name}</b><br>
-                <a href="${node.url}" target="_blank">${node.url}</a>
-            </div>
-        `;
-        marker.bindPopup(popupHTML);
-        nodeMap[node.id] = [node.lat, node.lon];
+    // === 3. Red pin icon ===
+    const redPin = L.icon({
+        iconUrl: "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png",
+        shadowUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png",
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [0, -38]
     });
 
-    // 6. Draw collaboration curves
-    data.links.forEach(link => {
-        const A = nodeMap[link.from];
-        const B = nodeMap[link.to];
+    // === 4. Add markers with popup ===
+    const nodePos = {};
+    data.nodes.forEach(n => {
+        const popup = `
+            <div class="collab-popup" style="text-align:center;">
+                <img src="${n.img}" alt="logo" />
+                <br><b>${n.name}</b><br>
+                ${n.url ? `<a href="${n.url}" target="_blank">${n.url}</a>` : ""}
+            </div>
+        `;
+
+        L.marker([n.lat, n.lon], { icon: redPin })
+            .addTo(map)
+            .bindPopup(popup);
+
+        nodePos[n.id] = [n.lat, n.lon];
+    });
+
+    // === 5. Draw arcs between nodes (optional but pretty) ===
+    data.links.forEach(l => {
+        const A = nodePos[l.from];
+        const B = nodePos[l.to];
         if (!A || !B) return;
 
-        const latMid = (A[0] + B[0]) / 2 + 10; // curvature offset
+        // mid-point to make curve
+        const latMid = (A[0] + B[0]) / 2 + 12;
         const lonMid = (A[1] + B[1]) / 2;
 
-        const curve = L.curve(
-            [
-                "M", A,
-                "Q", [latMid, lonMid], B
-            ],
+        L.curve(
+            ["M", A, "Q", [latMid, lonMid], B],
             {
-                color: "#BA2F2F",
-                weight: 2,
-                opacity: 0.8
+                color: "#cc4444",
+                weight: 1.8,
+                opacity: 0.65
             }
         ).addTo(map);
     });
 });
 </script>
 <!-- research map end -->
+
 
 
 
