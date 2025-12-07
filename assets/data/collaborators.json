@@ -42,10 +42,21 @@
       "img": "/images/ub_logo.png",
       "badge": "UB"
     }
+     {
+      "id": "polimi",
+      "name": "Politecnico di Milano",
+      "short": "PoliMi",
+      "lat": 45.46,
+      "lon": 9.19,
+      "url": "https://www.polimi.it",
+      "img": "/images/polimi_logo.png",
+      "badge": "PoliMi"
+    }
   ],
   "links": [
     { "from": "buaa", "to": "jaxa", "type": "collab" },
     { "from": "buaa", "to": "york", "type": "postdoc" },
-    { "from": "buaa", "to": "ub", "type": "visit" }
+    { "from": "buaa", "to": "ub", "type": "visit" },
+    { "from": "buaa", "to": "polimi", "type": "co-supervision" }
   ]
 }
