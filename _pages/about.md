@@ -342,7 +342,7 @@ Focusing on cislunar space resource development and space security defence, the 
 <script src="https://cdn.jsdelivr.net/npm/leaflet-curve@0.3.0/leaflet-curve.min.js"></script>
 
 <!-- Map data and script (NO leading slash) -->
-<script src="assets/data/collaborators.json" type="application/json" id="collab-data" defer></script>
+
 <script src="assets/js/research-map.js" defer></script>
 <!-- research map end -->
 
