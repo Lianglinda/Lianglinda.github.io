@@ -333,7 +333,7 @@ Focusing on cislunar space resource development and space security defence, the 
 <!-- research map start -->
 <h2 style="text-align:left;">🌍 Research Network</h2>
 <div id="research-map" 
-     style="width:100%; max-width:1100px; height:520px; margin:0 auto 32px auto; border-radius:14px; overflow:hidden; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+     style="width:100%; max-width:1100px; height:520px; margin:0 auto 24px auto; border-radius:10px; overflow:hidden; box-shadow:0 4px 12px rgba(0,0,0,0.12);">
 </div>
 
 <!-- Leaflet CSS/JS -->
@@ -344,16 +344,15 @@ Focusing on cislunar space resource development and space security defence, the 
 <script src="https://cdn.jsdelivr.net/npm/leaflet-curve@0.3.0/leaflet-curve.min.js"></script>
 
 <style>
-  /* popup 内的 logo 自动适配 + 美观 */
+  /* 弹窗美化 & Logo 自适应缩放 */
   .collab-popup img {
-    max-width: 90px;
-    max-height: 90px;
-    object-fit: contain;
+    max-width: 80px;
+    max-height: 80px;
+    width: auto;
+    height: auto;
     border-radius: 10px;
-    background: #fff;
-    padding: 4px;
     box-shadow: 0 2px 6px rgba(0,0,0,0.25);
-    margin-bottom: 6px;
+    margin-bottom: 8px;
   }
   .collab-popup b {
     font-size: 16px;
@@ -362,11 +361,11 @@ Focusing on cislunar space resource development and space security defence, the 
 
 <script>
 document.addEventListener("DOMContentLoaded", async () => {
+    // === 1. Load JSON ===
+    const response = await fetch("assets/data/collaborators.json");
+    const data = await response.json();
 
-    // === 1. 读取 JSON 数据 ===
-    const data = await (await fetch("assets/data/collaborators.json")).json();
-
-    // === 2. 初始化地图 ===
+    // === 2. Create Map ===
     const map = L.map("research-map", {
         center: data.center,
         zoom: data.zoom,
@@ -375,63 +374,60 @@ document.addEventListener("DOMContentLoaded", async () => {
     });
 
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-        maxZoom: 7,
-        attribution: "&copy; OpenStreetMap"
+        maxZoom: 6,
+        attribution: "&copy; OpenStreetMap contributors"
     }).addTo(map);
 
-    // === 3. 精致版红色书钉（高清） ===
+    // === 3. Use your custom red pin ===
     const redPin = L.icon({
-        iconUrl: "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png",
-        shadowUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png",
-        iconSize: [27, 43],
-        iconAnchor: [13, 43],
-        popupAnchor: [1, -38]
+        iconUrl: "/images/red_pin.png",   // ← 你上传的红色书钉
+        iconSize: [34, 50],               // 可调，这里偏好细长一点的 pin
+        iconAnchor: [17, 50],             // 让尖端正好落在坐标点
+        popupAnchor: [0, -46]
     });
 
-    // === 4. 标记点 + logo 弹窗 ===
-    const pos = {};
-
+    // === 4. Add markers ===
+    const nodePos = {};
     data.nodes.forEach(n => {
 
         const popupHTML = `
             <div class="collab-popup" style="text-align:center;">
-                <img src="${n.img}" alt="Logo"/>
-                <br><b>${n.name}</b><br>
-                ${n.url ? `<a href="${n.url}" target="_blank">Website</a>` : ""}
+                <img src="${n.img}" alt="logo"/>
+                <br><b>${n.name}</b><br/>
+                ${n.url ? `<a href="${n.url}" target="_blank">${n.url}</a>` : ""}
             </div>
         `;
 
         L.marker([n.lat, n.lon], { icon: redPin })
-          .addTo(map)
-          .bindPopup(popupHTML);
+            .addTo(map)
+            .bindPopup(popupHTML);
 
-        pos[n.id] = [n.lat, n.lon];
+        nodePos[n.id] = [n.lat, n.lon];
     });
 
-    // === 5. 柔和红色半透明弧线 ===
-    data.links.forEach(l => {
-        const A = pos[l.from];
-        const B = pos[l.to];
+    // === 5. Smooth elegant curves between collaborators ===
+    data.links.forEach(link => {
+        const A = nodePos[link.from];
+        const B = nodePos[link.to];
         if (!A || !B) return;
 
-        const mid = [
-            (A[0] + B[0]) / 2 + 12,  // 提升纬度做成弧线
-            (A[1] + B[1]) / 2
-        ];
+        // Curved line (Bezier) midpoint adjustment
+        const midLat = (A[0] + B[0]) / 2 + 12;  
+        const midLon = (A[1] + B[1]) / 2;
 
         L.curve(
-            ["M", A, "Q", mid, B],
+            ["M", A, "Q", [midLat, midLon], B],
             {
-                color: "rgba(220, 60, 60, 0.55)",
-                weight: 2.2,
+                color: "rgba(220, 60, 60, 0.55)",  // 柔和半透明
+                weight: 2,
                 opacity: 0.8
             }
         ).addTo(map);
     });
- 
 });
 </script>
 <!-- research map end -->
+
 
 
 
