@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const data = getData();
   if (!data) {
-    console.warn('No collaborator data found. Map will not render.');
+    console.warn('Looking forward to future collaborators.');
     return;
   }
 
