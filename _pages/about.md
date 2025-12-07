@@ -329,7 +329,7 @@ Focusing on cislunar space resource development and space security defence, the 
 - Ordinary member in Japanese Society for Planetary Science
 - Ordinary member in Japan Society for Aeronautical and Space Sciences
 - Japanese Society for the Promotion of Science (日本学術振興会) Post-doctoral Fellowship
-
+ 
 <!-- research map start -->
 <h2 style="text-align:left;">🌍 Research Network</h2>
 <div id="research-map" 
