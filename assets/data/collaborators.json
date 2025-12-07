@@ -1,1 +1,51 @@
-
+{
+  "center": [30.5, 10.0], 
+  "zoom": 2,
+  "nodes": [
+    {
+      "id": "buaa",
+      "name": "Beihang University",
+      "short": "Beihang",
+      "lat": 39.999,
+      "lon": 116.357,
+      "url": "https://www.buaa.edu.cn",
+      "img": "/images/buaa_logo.png",
+      "badge": "Beihang"
+    },
+    {
+      "id": "jaxa",
+      "name": "JAXA (ISAS)",
+      "short": "JAXA",
+      "lat": 35.6795,
+      "lon": 139.773,
+      "url": "https://www.isas.jaxa.jp",
+      "img": "/images/jaxa_logo.png",
+      "badge": "JAXA"
+    },
+    {
+      "id": "york",
+      "name": "York University",
+      "short": "York",
+      "lat": 43.773,
+      "lon": -79.501,
+      "url": "https://www.yorku.ca",
+      "img": "/images/york_logo.png",
+      "badge": "York"
+    },
+    {
+      "id": "ub",
+      "name": "Universitat de Barcelona",
+      "short": "UB",
+      "lat": 41.3833,
+      "lon": 2.1833,
+      "url": "https://www.ub.edu",
+      "img": "/images/ub_logo.png",
+      "badge": "UB"
+    }
+  ],
+  "links": [
+    { "from": "buaa", "to": "jaxa", "type": "collab" },
+    { "from": "buaa", "to": "york", "type": "postdoc" },
+    { "from": "buaa", "to": "ub", "type": "visit" }
+  ]
+}
