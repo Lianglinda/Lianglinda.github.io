@@ -381,7 +381,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     // === 3. Use your custom red pin ===
     const redPin = L.icon({
         iconUrl: "/images/red_pin.png",   // ← 你上传的红色书钉
-        iconSize: [34, 50],               // 可调，这里偏好细长一点的 pin
+        iconSize: [34, 50],               // 可调，这里偏好细长一点的 pin 
         iconAnchor: [17, 50],             // 让尖端正好落在坐标点
         popupAnchor: [0, -46]
     });
