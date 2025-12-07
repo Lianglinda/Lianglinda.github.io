@@ -335,17 +335,15 @@ Focusing on cislunar space resource development and space security defence, the 
 <div id="research-map" style="width:100%; max-width:1100px; height:480px; margin: 0 auto 24px auto; border-radius:8px; overflow:hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08)"></div>
 
 <!-- Leaflet CSS/JS (CDN) -->
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-  integrity="sha256-sA+o0q4J5qE6qba9oN1w3h4H+2iwgWvQvURy0w3M6Hk=" crossorigin=""/>
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-  integrity="sha256-XQoYMqMTK8LvdlxU/3pGkXwM0sA9gqkR0sA+GkZfY1w=" crossorigin=""></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
-<!-- Optional: leaflet-curve for curved polylines (CDN) -->
+<!-- Optional: leaflet-curve -->
 <script src="https://cdn.jsdelivr.net/npm/leaflet-curve@0.3.0/leaflet-curve.min.js"></script>
 
-<!-- Map data and script -->
-<script src="/assets/data/collaborators.json" type="application/json" id="collab-data" defer></script>
-<script src="/assets/js/research-map.js" defer></script>
+<!-- Map data and script (NO leading slash) -->
+<script src="assets/data/collaborators.json" type="application/json" id="collab-data" defer></script>
+<script src="assets/js/research-map.js" defer></script>
 <!-- research map end -->
 
 
