@@ -323,7 +323,7 @@ Focusing on cislunar space resource development and space security defence, the 
 # 👥 Fellowship
 - Committee Member (Observer) for Astrodynamics Committee of IAF (International Astronautical Federation)
 - Editorial Board Member of Nonlinear Dynamics
-- Editorial Board Member of Journal of Astronautics (English Version)
+- Editorial Board Member of Advances of Astronautics 宇航学报 (English Version)
 - Ordinary member in Chinese Society of Astronautics (中国宇航学会)
 - Organisation Member of 2025 International Federation of Automatic Control
 - Ordinary member in Japanese Society for Planetary Science
