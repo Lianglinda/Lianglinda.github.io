@@ -428,7 +428,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             }
         ).addTo(map);
     });
-
+ 
 });
 </script>
 <!-- research map end -->
