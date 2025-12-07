@@ -331,20 +331,91 @@ Focusing on cislunar space resource development and space security defence, the 
 - Japanese Society for the Promotion of Science (日本学術振興会) Post-doctoral Fellowship
 
 <!-- research map start -->
-<h2 style="text-align⬅️;">🌍 Research Network</h2>
-<div id="research-map" style="width:100%; max-width:1100px; height:480px; margin: 0 auto 24px auto; border-radius:8px; overflow:hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08)"></div>
+<h2 style="text-align:center;">🌍 Research Network</h2>
+<div id="research-map" 
+     style="width:100%; max-width:1100px; height:480px; margin:0 auto 24px auto; border-radius:8px; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,0.08);">
+</div>
 
-<!-- Leaflet CSS/JS (CDN) -->
+<!-- Leaflet CSS/JS -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
-<!-- Optional: leaflet-curve -->
+<!-- Optional leaflet-curve -->
 <script src="https://cdn.jsdelivr.net/npm/leaflet-curve@0.3.0/leaflet-curve.min.js"></script>
 
-<!-- Map data and script (NO leading slash) -->
+<!-- Embedded map script -->
+<script>
+document.addEventListener("DOMContentLoaded", async () => {
+    // 1. Load JSON from assets/data
+    const response = await fetch("assets/data/collaborators.json");
+    const data = await response.json();
 
-<script src="assets/js/research-map.js" defer></script>
+    // 2. Init map
+    const map = L.map("research-map", {
+        center: data.center,
+        zoom: data.zoom,
+        zoomControl: true,
+        worldCopyJump: true
+    });
 
+    // 3. Add tile layer
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        maxZoom: 6,
+        attribution: "&copy; OpenStreetMap Contributors"
+    }).addTo(map);
+
+    // 4. Create marker icons
+    function createIcon(imgUrl) {
+        return L.icon({
+            iconUrl: imgUrl,
+            iconSize: [44, 44],
+            iconAnchor: [22, 22],
+            className: "research-marker"
+        });
+    }
+
+    // 5. Add markers
+    const nodeMap = {};
+    data.nodes.forEach(node => {
+        const marker = L.marker([node.lat, node.lon], {
+            icon: createIcon(node.img)
+        }).addTo(map);
+
+        let popupHTML = `
+            <div style="text-align:center;">
+                <img src="${node.img}" style="width:60px;height:60px;border-radius:6px;margin-bottom:8px;" /><br>
+                <b>${node.name}</b><br>
+                <a href="${node.url}" target="_blank">${node.url}</a>
+            </div>
+        `;
+        marker.bindPopup(popupHTML);
+        nodeMap[node.id] = [node.lat, node.lon];
+    });
+
+    // 6. Draw collaboration curves
+    data.links.forEach(link => {
+        const A = nodeMap[link.from];
+        const B = nodeMap[link.to];
+        if (!A || !B) return;
+
+        const latMid = (A[0] + B[0]) / 2 + 10; // curvature offset
+        const lonMid = (A[1] + B[1]) / 2;
+
+        const curve = L.curve(
+            [
+                "M", A,
+                "Q", [latMid, lonMid], B
+            ],
+            {
+                color: "#BA2F2F",
+                weight: 2,
+                opacity: 0.8
+            }
+        ).addTo(map);
+    });
+});
+</script>
 <!-- research map end -->
+
 
 
