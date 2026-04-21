@@ -235,11 +235,13 @@ My research focuses on dynamics and control of spacecraft and mission design, in
 # 📝 Publication List
 
 - **Yuying Liang**, Lei Peng, Zheng Yan. Review on Orbital Dynamics of Triangular Libration Points and Its Application to Aerospace Engineering. Nonlinear Dynamics, 2026, accepted.
+- Chenyu Zhang, **Yuying Liang**. A Rendezvous Strategy based on Differential Correction around Libration Points. Advances in Astronautics(宇航学报英文版), 2026, accepted.
+- Zhonghuai Yan, **Yuying Liang**. Dual Perspectives on Estimating Asteroid Internal Structure with Invertible Neural Networks. Space: Science and Technology, 2026, accepted.
 - Lei Peng, **Yuying Liang**. From Asteroid Flybys to Galaxy Encounters: Hyperbolic Restricted Three-Body Problem with Extreme Mass Ratios. Monthly Notices of the Royal Astronomical Society, 2025, accepted.
 - Lei Peng, Peng Shi, **Yuying Liang**. Analog of Lunar Sun-Synchronous Orbits Based on Spatial Distant Retrograde Orbits. Journal of Guidance, Control, and Dynamics, 2025, 48(6), 1439-1448.
 - **Yuying Liang**, Naoya Ozaki, Yasuhiro Kawakatsu, Masaki Fujimoto. A Flight-Information-Perceived Approach to Parameter Determination of Giant Asteroids: Revisiting Dawn Mission. Journal of Geophysical Research, 2025, 2, e2024JH000389.
 - Changchun Long, Shengping Gong, **Yuying Liang**. Constructing Cislunar Infrastructure on Distant Retrograde Orbit by Low-thrust Transfer. Advances in Space Research, 2025, 75(8), 6353-6375.
-- Lei Peng, **Yuying Liang**, Xingji He. Transfers to Earth-Moon Triangular Libration Points by Sun-Perturbed Dynamics. Advances in Space Research, 2025, 75(3): 2837-2855.
+- Lei Peng, **Yuying Liang**, Xingji He. Transfers to Earth-Moon Triangular Libration Points by Sun-Perturbed Dynamics. Advances in Space Research, 2025, 75(3): 2837-2855. (高被引论文)
 - **Yuying Liang**, Naoya Ozaki, Yasuhiro Kawakatsu, Masaki Fujimoto. Modelling internal structure of differentiated asteroids via data-driven approach. Monthly Notices of the Royal Astronomical Society, 2023, 519(2): 2349-2365.
 - **Yuying Liang**, Ryuki Hyodo. Giga-year dynamical evolution of particles around Mars. Icarus, 2023, 391: 115335.
 - **Yuying Liang**, Nishanth Pushparaj, Yasuhiro Kawakatsu. A Point-To-Point Jumping Dynamics on Phobos by Prograde G’ Families. Journal of Guidance, Control, and Dynamics, 2022, 45(6): 1172-1183.
