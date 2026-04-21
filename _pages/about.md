@@ -41,7 +41,8 @@ My research focuses on dynamics and control of spacecraft and mission design, in
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 课题组的多源传感器空间交会平台搭建好了！ 
 - *2025.06*: &nbsp;🎉🎉 恭喜宸宇同学，第六届全国航空航天本科毕业设计特等奖第二名，再接再厉～
-- *2025.10*: &nbsp;🎉🎉 外国专家合作计划获批了，热烈欢迎西班牙Martin Lara教授来华工作！  
+- *2025.10*: &nbsp;🎉🎉 外国专家合作计划获批了，热烈欢迎西班牙Martin Lara教授来华工作！
+- *2026.04*: &nbsp;🎉🎉 彭蕾同学即将在西班牙短期访学，祝她前程似锦！  
 
 # 🏆 Selected Publications
 
