@@ -43,7 +43,70 @@ My research focuses on dynamics and control of spacecraft and mission design, in
 - *2025.06*: &nbsp;🎉🎉 恭喜宸宇同学，第六届全国航空航天本科毕业设计特等奖第二名，再接再厉～
 - *2025.10*: &nbsp;🎉🎉 外国专家合作计划获批了，热烈欢迎西班牙Martin Lara教授来华工作！
 - *2026.03*: &nbsp;🎉🎉 课题组新获批行星探测工程天问二号任务科学与应用研究（小行星引力场构建）～
-- *2026.04*: &nbsp;🎉🎉 彭蕾同学即将在西班牙短期访学，祝她前程似锦！  
+- *2026.04*: &nbsp;🎉🎉 彭蕾同学即将在西班牙短期访学，祝她前程似锦！
+
+## 📢 News
+
+<style>
+  /* 动态新闻容器 */
+  .news-box {
+    height: 120px; /* 设置显示区域高度 */
+    overflow: hidden;
+    position: relative;
+    border-left: 3px solid #0056b3; /* 蓝色侧边，增加大教授风范 */
+    background: #f8f9fa;
+    padding: 10px 20px;
+  }
+
+  .news-list {
+    position: absolute;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    animation: scrollNews 15s linear infinite; /* 调整时间控制滚动速度 */
+  }
+
+  /* 鼠标悬停时停止滚动 */
+  .news-box:hover .news-list {
+    animation-play-state: paused;
+  }
+
+  .news-item {
+    padding: 5px 0;
+    line-height: 1.6;
+    font-size: 0.95em;
+  }
+
+  .news-date {
+    font-weight: bold;
+    color: #0056b3;
+    margin-right: 10px;
+  }
+
+  /* 滚动动画 */
+  @keyframes scrollNews {
+    0% { top: 100%; }
+    100% { top: -150%; } /* 根据新闻条数调整，条数多就减小这个值 */
+  }
+</style>
+
+<div class="news-box">
+  <ul class="news-list">
+    <li class="news-item">
+      <span class="news-date">2026.04</span> 获批国家级外国专家项目，明年夏季将开展深度联合攻关。
+    </li>
+    <li class="news-item">
+      <span class="news-date">2026.04</span> 祝贺彭蕾前往西班牙进行学术交流，冲击国际一流研究。
+    </li>
+    <li class="news-item">
+      <span class="news-date">2026.03</span> 实验室完成深空探测对接动力学模型 1.0 版本优化。
+    </li>
+    <li class="news-item">
+      <span class="news-date">2026.01</span> 梁教授获评“年度科研风范奖”，科研成果获院所高度认可。
+    </li>
+  </ul>
+</div>
 
 # 🏆 Selected Publications
 
