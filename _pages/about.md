@@ -99,7 +99,7 @@ My research focuses on dynamics and control of spacecraft and mission design, in
       <span class="news-date">2026.03</span> 课题组新获批行星探测工程天问二号任务科学与应用研究（小行星引力场构建）。
     </li>
     <li class="news-item">
-      <span class="news-date">2025.09</span> 祝贺宸宇同学斩获第六届全国航空航天本科毕业设计特等奖第二名。
+      <span class="news-date">2025.09</span> 祝贺宸宇斩获第六届全国航空航天本科毕业设计特等奖第二名。
     </li>
   </ul>
 </div>
