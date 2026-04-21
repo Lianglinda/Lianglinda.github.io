@@ -39,13 +39,6 @@ My research focuses on dynamics and control of spacecraft and mission design, in
    <center> 🔆🔆🔆 <b>希望每一位加入课题组的同学，都能在科研的道路上找到属于自己的热爱与方向 🔆🔆🔆
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 课题组的多源传感器空间交会平台搭建好了！ 
-- *2025.06*: &nbsp;🎉🎉 恭喜宸宇同学，第六届全国航空航天本科毕业设计特等奖第二名，再接再厉～
-- *2025.10*: &nbsp;🎉🎉 外国专家合作计划获批了，热烈欢迎西班牙Martin Lara教授来华工作！
-- *2026.03*: &nbsp;🎉🎉 课题组新获批行星探测工程天问二号任务科学与应用研究（小行星引力场构建）～
-- *2026.04*: &nbsp;🎉🎉 彭蕾同学即将在西班牙短期访学，祝她前程似锦！
-
-## 📢 News
 
 <style>
   /* 动态新闻容器 */
@@ -94,7 +87,7 @@ My research focuses on dynamics and control of spacecraft and mission design, in
 <div class="news-box">
   <ul class="news-list">
     <li class="news-item">
-      <span class="news-date">2026.04</span> 获批国家级外国专家项目，明年夏季将开展深度联合攻关。
+      <span class="news-date">2026.04</span> 获批国家级外国专家项目，今年夏季将开展深度联合攻关。
     </li>
     <li class="news-item">
       <span class="news-date">2026.04</span> 祝贺彭蕾前往西班牙进行学术交流，冲击国际一流研究。
@@ -103,7 +96,10 @@ My research focuses on dynamics and control of spacecraft and mission design, in
       <span class="news-date">2026.03</span> 实验室完成深空探测对接动力学模型 1.0 版本优化。
     </li>
     <li class="news-item">
-      <span class="news-date">2026.01</span> 梁教授获评“年度科研风范奖”，科研成果获院所高度认可。
+      <span class="news-date">2026.03</span> 课题组新获批行星探测工程天问二号任务科学与应用研究（小行星引力场构建）。
+    </li>
+    <li class="news-item">
+      <span class="news-date">2025.09</span> 祝贺宸宇同学斩获第六届全国航空航天本科毕业设计特等奖第二名。
     </li>
   </ul>
 </div>
