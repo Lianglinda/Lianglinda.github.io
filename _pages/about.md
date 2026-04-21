@@ -42,6 +42,7 @@ My research focuses on dynamics and control of spacecraft and mission design, in
 - *2025.03*: &nbsp;🎉🎉 课题组的多源传感器空间交会平台搭建好了！ 
 - *2025.06*: &nbsp;🎉🎉 恭喜宸宇同学，第六届全国航空航天本科毕业设计特等奖第二名，再接再厉～
 - *2025.10*: &nbsp;🎉🎉 外国专家合作计划获批了，热烈欢迎西班牙Martin Lara教授来华工作！
+- *2026.03*: &nbsp;🎉🎉 课题组新获批行星探测工程天问二号任务科学与应用研究（小行星引力场构建）～
 - *2026.04*: &nbsp;🎉🎉 彭蕾同学即将在西班牙短期访学，祝她前程似锦！  
 
 # 🏆 Selected Publications
@@ -317,7 +318,7 @@ My research focuses on dynamics and control of spacecraft and mission design, in
 Focusing on cislunar space resource development and space security defence, the research covers cislunar transfer orbit design, intelligent guidance and control for deep-space exploration, and data-driven modelling of small-body internal structures. The PI leads multiple projects, including the National Natural Science Foundation of China, the Beijing Natural Science Foundation, the KGJ Civil Space 145 Program, and the Open Fund of National Key Laboratories.
 <br>
 <br>
-聚焦地月空间资源开发与空间安全防御，主要研究方向包括地月转移轨道设计、深空智能探测制导与控制，以及小天体内部结构的数据驱动建模。主持多项科研项目，涵盖国家自然科学基金、北京市自然科学基金、KGJ 民用航天“十四五”专项以及国家重点实验室开放基金等纵向与横向课题。
+聚焦地月空间资源开发与空间安全防御，主要研究方向包括地月转移轨道设计、深空智能探测制导与控制，以及小天体内部结构的数据驱动建模。主持多项科研项目，涵盖国家自然科学基金、北京市自然科学基金、KGJ 民用航天“十四五”专项、天问二号任务科学与应用研究项目以及国家重点实验室开放基金等纵向与横向课题。
 
 # 🎖 Honors and Awards
 - *2019.11-2021.11*  Japanese Society for the Promotion of Science (日本学術振興会) Fellowship
