@@ -201,8 +201,40 @@ My research focuses on dynamics and control of spacecraft and mission design, in
   </div>
 </div>
 
+<div style="display:flex; margin-bottom:20px; align-items:flex-start; position: relative;">
+  <div style="flex: 0 0 200px; margin-right: 20px; position: relative;">
+    <!-- 蓝色标志 -->
+    <div style="
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        background-color: #3498db;
+        color: white;
+        padding: 2px 8px;
+        font-size: 12px;
+        font-weight: bold;
+        border-radius: 3px;
+        z-index: 10;">
+      NODY 
+    </div>
+    <img src="/images/paper6.jpg" alt="Paper 6" width="200" style="display:block;">
+  </div>
+  <div style="flex: 1;">
+    <strong>Review on Orbital Dynamics of Triangular Libration Points and Its Application to Aerospace Engineering</strong>
+    <br>
+    Yuying Liang, Lei Peng, Zheng Yan
+    <br>
+    Nonlinear Dynamics, 2026  
+    <br>
+    本文涵盖了1911-2025年间所有的三角平动点相关研究文献，介绍了三角平动点的非线性动力学的研究进展，凝练了未来的发展方向和工程应用领域。
+    <br>
+    Project: KGJ Project on Cislunar Space Transportation
+  </div>
+</div>
+
 # 📝 Publication List
 
+- **Yuying Liang**, Lei Peng, Zheng Yan. Review on Orbital Dynamics of Triangular Libration Points and Its Application to Aerospace Engineering. Nonlinear Dynamics, 2026, accepted.
 - Lei Peng, **Yuying Liang**. From Asteroid Flybys to Galaxy Encounters: Hyperbolic Restricted Three-Body Problem with Extreme Mass Ratios. Monthly Notices of the Royal Astronomical Society, 2025, accepted.
 - Lei Peng, Peng Shi, **Yuying Liang**. Analog of Lunar Sun-Synchronous Orbits Based on Spatial Distant Retrograde Orbits. Journal of Guidance, Control, and Dynamics, 2025, 48(6), 1439-1448.
 - **Yuying Liang**, Naoya Ozaki, Yasuhiro Kawakatsu, Masaki Fujimoto. A Flight-Information-Perceived Approach to Parameter Determination of Giant Asteroids: Revisiting Dawn Mission. Journal of Geophysical Research, 2025, 2, e2024JH000389.
