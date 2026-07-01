@@ -87,7 +87,7 @@ My research focuses on dynamics and control of spacecraft and mission design, in
 <div class="news-box">
   <ul class="news-list">
     <li class="news-item">
-      <span class="news-date">2026.06</span> 超级开心！！！彭蕾获批博士生卓越基金啦！！！。
+      <span class="news-date">2026.06</span> 超级开心！！！彭蕾获批博士生卓越基金啦！！！
     </li>
     <li class="news-item">
       <span class="news-date">2026.06</span> 恭喜米兰理工双学位硕士生多米兹通过论文答辩，预祝毕业顺利！
