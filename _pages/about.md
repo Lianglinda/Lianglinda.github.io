@@ -416,6 +416,8 @@ Focusing on cislunar space resource development and space security defence, the 
 - *2025.09*, **Evolution of Earth–Moon Transfer Design: From Apollo to Beyond Gateway**, CSA-IAA Conference on Advanced Space Technology, Shanghai. 
 - *2025.09*, **Key Technologies for Reconstructing Planetary Interiors and Gravity Fields in Deep Space Missions**，Innovation Forum on Critical Technologies for Major Equipment Integration, Harbin.
 - *2025.11*, **Intelligent Alignment and Multi-modal Data Fusion Strategies for Contact-Based Space Assembly**，SNL of National Key Laboratory of Aerospace Mechanism, Shanghai (online).
+- *2026.05*, **Revisiting Deprit's Legacy in Triangular Libration Points**，International Workshop Dedicated to Key Topics in Orbit Propagation and Their Applications to Space Situational Awareness (KePASSA), Toulon.
+- *2026.07*, **Computation of Invatiant Tori near Libration Points in the Perturbed Three-body Problem**，Workshop of Progress in Three-body Problem, Beijing.
 
 # 📝 Teaching
 - *2025.04 - present*, Advanced Mathematics in Aerospace Science and Technolog (力学中的高阶数学方法), Beihang University.
