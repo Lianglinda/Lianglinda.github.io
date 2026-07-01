@@ -87,6 +87,9 @@ My research focuses on dynamics and control of spacecraft and mission design, in
 <div class="news-box">
   <ul class="news-list">
     <li class="news-item">
+      <span class="news-date">2026.06</span> 超级开心！！！彭蕾获批博士生卓越基金啦！！！。
+    </li>
+    <li class="news-item">
       <span class="news-date">2026.04</span> 获批国家级外国专家项目，今年夏季将开展深度联合攻关。
     </li>
     <li class="news-item">
