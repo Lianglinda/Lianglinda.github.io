@@ -342,6 +342,8 @@ My research focuses on dynamics and control of spacecraft and mission design, in
 
 # 📫 Conference Papers
 
+- Ferry Matthieu, <strong>Yuying Liang</strong>. Periapsis Altitude Control for Mars Aerobraking using Nonlinear Model Predictive Control and Continuous Low-Thrust Propulsion. In: International Federation of Automatic Control (IFAC), 2026, Busan.
+- Simone Di Domizio, <strong>Yuying Liang</strong>. Design and Analysis of the Attitude Determination and Control System for a Lunar Orbiter. In: International Conference on Aerospace, Weapon Science, Power and Control (AWSPC), 2026, Xian.
 - Chenyu Zhang, Yifei Xie, <strong>Yuying Liang</strong>. Constructing Shuttle-Mode Architecture in Cislunar Space for Reusable Flight Vehicles. In: 75th IAC, 2025, Sydney.
 - Shengyu Gao, Yifei Xie, Lei Peng, <strong>Yuying Liang</strong>. Reconstruction of Lunar Gravity Anomalies and Heterogeneous Density Distribution based on Optical Guidance Information. In: 75th IAC, 2025, Sydney.
 - Lei Peng, Yifei Xie, <strong>Yuying Liang</strong>. A Constellation-Volume-Preserved Approach for Formation Flying Design near Triangular Libration Points. In: 75th IAC, 2025, Sydney.
