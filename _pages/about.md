@@ -34,6 +34,7 @@ My research focuses on dynamics and control of spacecraft and mission design, in
 3. 组会上优雅的躺平姿势 
 4. 学术报告防打瞌睡指南 
 5. 让我们荡起双桨——完成第一篇共同署名论文
+6. 我希望你出去看看——在非线性的人间，寻找自己的守恒量
 <br>
 <br>
    <center> 🔆🔆🔆 <b>希望每一位加入课题组的同学，都能在科研的道路上找到属于自己的热爱与方向 🔆🔆🔆
@@ -86,6 +87,9 @@ My research focuses on dynamics and control of spacecraft and mission design, in
 
 <div class="news-box">
   <ul class="news-list">
+    <li class="news-item">
+      <span class="news-date">2026.06</span> 开心加倍！！！彭蕾获得深空探测学会的青年博士托举计划推荐！！！
+    </li>
     <li class="news-item">
       <span class="news-date">2026.06</span> 超级开心！！！彭蕾获批博士生卓越基金啦！！！
     </li>
