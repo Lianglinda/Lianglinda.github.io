@@ -303,11 +303,11 @@ My research focuses on dynamics and control of spacecraft and mission design, in
 </div>
 
 # 📝 Publication List
-
-- **Yuying Liang**, Lei Peng, Zheng Yan. Review on Orbital Dynamics of Triangular Libration Points and Its Application to Aerospace Engineering. Nonlinear Dynamics, 2026, accepted.
-- Chenyu Zhang, **Yuying Liang**. A Rendezvous Strategy based on Differential Correction around Libration Points. Advances in Astronautics(宇航学报英文版), 2026, accepted.
+- Lei Peng, **Yuying Liang**. Targeting Hyperbolic Flyby Asteroids: A Novel Transfer Mechanism[J]. Advances in Space Research, 2026, accepted.
+- **Yuying Liang**, Lei Peng, Zheng Yan. Review on Orbital Dynamics of Triangular Libration Points and Its Application to Aerospace Engineering. Nonlinear Dynamics, 2026, 114(8): 573.
+- Chenyu Zhang, **Yuying Liang**. A Rendezvous Strategy based on Differential Correction around Libration Points. Advances in Astronautics(宇航学报英文版), 2026, 1-23.
 - Zhonghuai Yan, **Yuying Liang**. Dual Perspectives on Estimating Asteroid Internal Structure with Invertible Neural Networks. Space: Science and Technology, 2026, accepted.
-- Lei Peng, **Yuying Liang**. From Asteroid Flybys to Galaxy Encounters: Hyperbolic Restricted Three-Body Problem with Extreme Mass Ratios. Monthly Notices of the Royal Astronomical Society, 2025, accepted.
+- Lei Peng, **Yuying Liang**. From Asteroid Flybys to Galaxy Encounters: Hyperbolic Restricted Three-Body Problem with Extreme Mass Ratios. Monthly Notices of the Royal Astronomical Society, 2025, 545(3): staf2105.
 - Lei Peng, Peng Shi, **Yuying Liang**. Analog of Lunar Sun-Synchronous Orbits Based on Spatial Distant Retrograde Orbits. Journal of Guidance, Control, and Dynamics, 2025, 48(6), 1439-1448.
 - **Yuying Liang**, Naoya Ozaki, Yasuhiro Kawakatsu, Masaki Fujimoto. A Flight-Information-Perceived Approach to Parameter Determination of Giant Asteroids: Revisiting Dawn Mission. Journal of Geophysical Research, 2025, 2, e2024JH000389.
 - Changchun Long, Shengping Gong, **Yuying Liang**. Constructing Cislunar Infrastructure on Distant Retrograde Orbit by Low-thrust Transfer. Advances in Space Research, 2025, 75(8), 6353-6375.
