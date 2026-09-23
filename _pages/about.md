@@ -35,6 +35,7 @@ My research focuses on dynamics and control of spacecraft and mission design, in
 4. 学术报告防打瞌睡指南 
 5. 让我们荡起双桨——完成第一篇共同署名论文
 6. 我希望你出去看看——在非线性的人间，寻找自己的守恒量
+7. 来路与去路的交叉口——既是老师，又是学生
 <br>
 <br>
    <center> 🔆🔆🔆 <b>希望每一位加入课题组的同学，都能在科研的道路上找到属于自己的热爱与方向 🔆🔆🔆
