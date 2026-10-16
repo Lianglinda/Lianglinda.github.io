@@ -89,16 +89,16 @@ My research focuses on dynamics and control of spacecraft and mission design, in
 <div class="news-box">
   <ul class="news-list">
     <li class="news-item">
-      <span class="news-date">2026.06</span> 祝千豪前往土耳其参加IAC国际会议，走上国际舞台！
+      <span class="news-date">2026.10</span> 祝千豪前往土耳其参加IAC国际会议，走上国际舞台！
     </li>
     <li class="news-item">
-      <span class="news-date">2026.06</span> 顺利当选IAF航天动力学委员会正式委员！为大家服务！
+      <span class="news-date">2026.10</span> 顺利当选IAF航天动力学委员会正式委员！为大家服务！
     </li>
     <li class="news-item">
-      <span class="news-date">2026.06</span> 开心三倍！！！经过激烈的竞争，彭蕾获得博士生国家奖学金！！！
+      <span class="news-date">2026.10</span> 开心三倍！！！经过激烈的竞争，彭蕾获得博士生国家奖学金！！！
     </li>
     <li class="news-item">
-      <span class="news-date">2026.06</span> 开心加倍！！彭蕾获得深空探测学会的青年博士托举计划推荐！！
+      <span class="news-date">2026.09</span> 开心加倍！！彭蕾获得深空探测学会的青年博士托举计划推荐！！
     </li>
     <li class="news-item">
       <span class="news-date">2026.06</span> 超级开心！彭蕾获批博士生卓越基金啦！
