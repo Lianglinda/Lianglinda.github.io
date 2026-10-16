@@ -359,7 +359,9 @@ My research focuses on dynamics and control of spacecraft and mission design, in
 </details>
 
 # 📫 Conference Papers
-
+- Qianhao Wang, Chuanfeng Wei, Martin Lara, <strong>Yuying Liang</strong>. Onboard Autonomous Deorbit Planning and Control for Large Constellations. In: 76th IAC, 2026, Antalya.
+- Yang Ma, Qianfeng Jing, Qianhao Wang, <strong>Yuying Liang</strong>. MPC-Based Collision Avoidance Strategy for Aerobraking Spacecraft. In: 76th IAC, 2026, Antalya. 
+- Lei Peng, Gladston Duarte, Qianfeng Jing, <strong>Yuying Liang</strong>. Invariant Tori and Their Manifolds near Triangular Libration Points in the Elliptic Restricted Three-Body Problem. In: 76th IAC, 2026, Antalya.
 - Ferry Matthieu, <strong>Yuying Liang</strong>. Periapsis Altitude Control for Mars Aerobraking using Nonlinear Model Predictive Control and Continuous Low-Thrust Propulsion. In: International Federation of Automatic Control (IFAC), 2026, Busan.
 - Simone Di Domizio, <strong>Yuying Liang</strong>. Design and Analysis of the Attitude Determination and Control System for a Lunar Orbiter. In: International Conference on Aerospace, Weapon Science, Power and Control (AWSPC), 2026, Xian.
 - Chenyu Zhang, Yifei Xie, <strong>Yuying Liang</strong>. Constructing Shuttle-Mode Architecture in Cislunar Space for Reusable Flight Vehicles. In: 75th IAC, 2025, Sydney.
