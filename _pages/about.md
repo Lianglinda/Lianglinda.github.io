@@ -89,10 +89,19 @@ My research focuses on dynamics and control of spacecraft and mission design, in
 <div class="news-box">
   <ul class="news-list">
     <li class="news-item">
-      <span class="news-date">2026.06</span> 开心加倍！！！彭蕾获得深空探测学会的青年博士托举计划推荐！！！
+      <span class="news-date">2026.06</span> 祝千豪前往土耳其参加IAC国际会议，走上国际舞台！
     </li>
     <li class="news-item">
-      <span class="news-date">2026.06</span> 超级开心！！！彭蕾获批博士生卓越基金啦！！！
+      <span class="news-date">2026.06</span> 顺利当选IAF航天动力学委员会正式委员！为大家服务！
+    </li>
+    <li class="news-item">
+      <span class="news-date">2026.06</span> 开心三倍！！！经过激烈的竞争，彭蕾获得博士生国家奖学金！！！
+    </li>
+    <li class="news-item">
+      <span class="news-date">2026.06</span> 开心加倍！！彭蕾获得深空探测学会的青年博士托举计划推荐！！
+    </li>
+    <li class="news-item">
+      <span class="news-date">2026.06</span> 超级开心！彭蕾获批博士生卓越基金啦！
     </li>
     <li class="news-item">
       <span class="news-date">2026.06</span> 恭喜米兰理工双学位硕士生多米兹通过论文答辩，预祝毕业顺利！
@@ -304,7 +313,8 @@ My research focuses on dynamics and control of spacecraft and mission design, in
 </div>
 
 # 📝 Publication List
-- Lei Peng, **Yuying Liang**. Targeting Hyperbolic Flyby Asteroids: A Novel Transfer Mechanism[J]. Advances in Space Research, 2026, accepted.
+- Matthieu Ferry, **Yuying Liang**. Model predictive control for autonomous north-south station-keeping of areostationary Mars orbit satellites using on-off electric propulsion subject to solar eclipse constraints. Aerospace Science and Technology, 2026: 114043.
+- Lei Peng, **Yuying Liang**. Targeting Hyperbolic Flyby Asteroids: A Novel Transfer Mechanism. Advances in Space Research, 2026, accepted.
 - **Yuying Liang**, Lei Peng, Zheng Yan. Review on Orbital Dynamics of Triangular Libration Points and Its Application to Aerospace Engineering. Nonlinear Dynamics, 2026, 114(8): 573.
 - Chenyu Zhang, **Yuying Liang**. A Rendezvous Strategy based on Differential Correction around Libration Points. Advances in Astronautics(宇航学报英文版), 2026, 1-23.
 - Zhonghuai Yan, **Yuying Liang**. Dual Perspectives on Estimating Asteroid Internal Structure with Invertible Neural Networks. Space: Science and Technology, 2026, accepted.
@@ -432,7 +442,7 @@ Focusing on cislunar space resource development and space security defence, the 
 - *2023.09 - present*, Flight Vehicle Dynamics of Deep Space Exploration (bilingual) (深空航天器轨道动力学与控制), Beihang University.
 
 # 👥 Fellowship
-- Committee Member (Observer) for Astrodynamics Committee of IAF (International Astronautical Federation)
+- Committee Member for Astrodynamics Committee of IAF (International Astronautical Federation)
 - Editorial Board Member of Nonlinear Dynamics
 - Editorial Board Member of Advances of Astronautics 宇航学报 (English Version)
 - Ordinary member in Chinese Society of Astronautics (中国宇航学会)
